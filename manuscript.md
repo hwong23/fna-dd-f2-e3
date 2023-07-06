@@ -1,14 +1,17 @@
 ---
-title: Manuscript Title
+title: Etapa 2. Ejecución Gobierno. Incremento 1
 keywords:
-- markdown
-- publishing
-- manubot
+- SOA
+- madurez
+- gobierno
+- FNA
 lang: en-US
 date-meta: '2023-07-06'
 author-meta:
-- John Doe
-- Jane Roe
+- Harry Wong, ing.
+- Wilson Morales, ing.
+- Flavio Hernandez, ing.
+- Viviana M. Martinez, ing.
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,38 +19,38 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
+  <meta name="citation_title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
+  <meta property="og:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
+  <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta name="dc.date" content="2023-07-06" />
   <meta name="citation_publication_date" content="2023-07-06" />
   <meta property="article:published_time" content="2023-07-06" />
-  <meta name="dc.modified" content="2023-07-06T11:58:13+00:00" />
-  <meta property="article:modified_time" content="2023-07-06T11:58:13+00:00" />
+  <meta name="dc.modified" content="2023-07-06T12:07:56+00:00" />
+  <meta property="article:modified_time" content="2023-07-06T12:07:56+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Harry Wong, ing." />
+  <meta name="citation_author_institution" content="Arquitecto SOA, Stefanini" />
+  <meta name="citation_author" content="Wilson Morales, ing." />
+  <meta name="citation_author_institution" content="Software, Aplicaciones" />
+  <meta name="citation_author" content="Flavio Hernandez, ing." />
+  <meta name="citation_author_institution" content="SOA, Arquitectura" />
+  <meta name="citation_author" content="Viviana M. Martinez, ing." />
+  <meta name="citation_author_institution" content="Analista, Proyectos" />
   <link rel="canonical" href="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta property="og:url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta property="twitter:url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/47930edcc4b0a60fb99a7f987d890eb4335473e4/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/47930edcc4b0a60fb99a7f987d890eb4335473e4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/47930edcc4b0a60fb99a7f987d890eb4335473e4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/d5681385ced6ab7c5ad89150e89df3d85b98a5ac/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/d5681385ced6ab7c5ad89150e89df3d85b98a5ac/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/d5681385ced6ab7c5ad89150e89df3d85b98a5ac/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,13 +68,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e3/v/47930edcc4b0a60fb99a7f987d890eb4335473e4/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e3/v/d5681385ced6ab7c5ad89150e89df3d85b98a5ac/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@47930ed](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@d568138](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 6, 2023.
 </em></small>
 
-|    **Versión** del producto 1.47930ed de 06 Jul 2023
+|    **Versión** del producto 1.d568138 de 06 Jul 2023
 
 
 
@@ -81,36 +84,45 @@ del July 6, 2023.
 
 
 
-+ **John Doe**
++ **Harry Wong, ing.**
   <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![Usuario](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    [e_hwong](https://github.com/e_hwong)
     <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Arquitecto SOA, Stefanini
   </small>
 
-+ **Jane Roe**
-  ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
++ **Wilson Morales, ing.**
+  <br>
     · ![Usuario](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
+    [wmorales](https://github.com/wmorales)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Software, Aplicaciones
+  </small>
+
++ **Flavio Hernandez, ing.**
+  <br>
+    · ![Usuario](images/github.svg){.inline_icon width=16 height=16}
+    [fhernandez](https://github.com/fhernandez)
+    <br>
+  <small>
+     SOA, Arquitectura
+  </small>
+
++ **Viviana M. Martinez, ing.**
+  <br>
+    · ![Usuario](images/github.svg){.inline_icon width=16 height=16}
+    [vmmartinez](https://github.com/vmmartinez)
+    <br>
+  <small>
+     Analista, Proyectos
   </small>
 
 
 ::: {#correspondence}
-✉ — Enviar mensajes a Jane Roe \<jane.roe@whatever.edu\>.
+✉ — Enviar mensajes a Harry Wong, ing. \<e_hwong@stefanini.com\>.
 
 
 :::
@@ -128,7 +140,7 @@ Entrega de los productos de la Etapa 3, PR06. Modelos actualizados de los ítems
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.47930ed del 06 Jul 2023 |
+| Versión        | 1.d568138 del 06 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -169,7 +181,7 @@ tablenos-caption-name: Tabla
 >
 >    06 Jul 2023
 >
->    **Versión** 1.47930ed
+>    **Versión** 1.d568138
 
 <br>
 
