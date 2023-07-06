@@ -39,5 +39,45 @@
     "title": "E-service. Situación SOA actual del FNA. Etapa i",
     "type": "book",
     "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices2-22"
+  },
+  {
+    "URL": "https://hwong23.github.io/fna-devdoc-f1/v/6497aef0f15c3591f0728e4c42cb2c26c13b43aa/",
+    "author": [
+      {
+        "literal": "Stefanini, FNA"
+      }
+    ],
+    "id": "hQTPO0iI",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          6
+        ]
+      ]
+    },
+    "title": "E-service. Arquitectura de referencia del FNA. Etapa II",
+    "type": "book",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices3-22"
+  },
+  {
+    "URL": "https://hwong23.github.io/fna-devdoc-f1/v/6497aef0f15c3591f0728e4c42cb2c26c13b43aa/",
+    "author": [
+      {
+        "literal": "Stefanini, FNA"
+      }
+    ],
+    "id": "l0mriBft",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          6
+        ]
+      ]
+    },
+    "title": "E-service. Hoja de ruta e iniciativas. Etapa III",
+    "type": "book",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices4-22"
   }
 ]
