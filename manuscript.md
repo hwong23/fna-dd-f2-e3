@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-06" />
   <meta name="citation_publication_date" content="2023-07-06" />
   <meta property="article:published_time" content="2023-07-06" />
-  <meta name="dc.modified" content="2023-07-06T12:07:56+00:00" />
-  <meta property="article:modified_time" content="2023-07-06T12:07:56+00:00" />
+  <meta name="dc.modified" content="2023-07-06T12:19:56+00:00" />
+  <meta property="article:modified_time" content="2023-07-06T12:19:56+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/d5681385ced6ab7c5ad89150e89df3d85b98a5ac/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/d5681385ced6ab7c5ad89150e89df3d85b98a5ac/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/d5681385ced6ab7c5ad89150e89df3d85b98a5ac/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/fed7c146f0b2194de2381928a9d343001975bc59/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/fed7c146f0b2194de2381928a9d343001975bc59/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/fed7c146f0b2194de2381928a9d343001975bc59/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,13 +68,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e3/v/d5681385ced6ab7c5ad89150e89df3d85b98a5ac/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e3/v/fed7c146f0b2194de2381928a9d343001975bc59/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@d568138](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@fed7c14](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 6, 2023.
 </em></small>
 
-|    **Versión** del producto 1.d568138 de 06 Jul 2023
+|    **Versión** del producto 1.fed7c14 de 06 Jul 2023
 
 
 
@@ -140,7 +140,7 @@ Entrega de los productos de la Etapa 3, PR06. Modelos actualizados de los ítems
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.d568138 del 06 Jul 2023 |
+| Versión        | 1.fed7c14 del 06 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -181,7 +181,7 @@ tablenos-caption-name: Tabla
 >
 >    06 Jul 2023
 >
->    **Versión** 1.d568138
+>    **Versión** 1.fed7c14
 
 <br>
 
@@ -193,7 +193,7 @@ Desarrollo de procedimientos, funciones, entregables, selección de roles y herr
 <br>
 
 ## Justificación
-El Comité de Arquitectura es la entidad de supervisión ubicada entre la oficina de arquitectura (PR02, objeto de este proyecto) y los líderes de grupo de productos del FNA y áreas interesadas. Es una figura necesaria dado los resultados de los diagnósticos SOA, en particular el de riesgos técnicos, realizados en la Fase I de la consultoría E-Service que señalan como causantes a la complejidad y (baja) agilidad que enfrenta el FNA. El Comité de Arquitectura funge como complemento, apoyo y arbitraje (directriz) de los decisiones conciernentes a los trabajo de arquitectura del FNA dirigidos a la solución de estos problemas.
+Uno de los objetivos nominales del Gobierno SOA del FNA, objeto de este proyecto, es _aumentar la relevancia de los de modelos de arquitectura: instrumentos de encuentro para el entendimiento, análisis, y comunicación entre actores_. Los modelos son por tanto el sujeto y principal la evidencia de la existencia del gobierno. De ahí que los modelos de arquitectura del FNA modificados a razón de este proyecto han sido modificados, tengan la importancia de un entregable.
 
 ## Contenidos
 1. Modelo operativo del Comité de Gobierno de Arquitectura del FNA: actores, información y procedimientos
