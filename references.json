@@ -79,5 +79,26 @@
     "title": "E-service. Hoja de ruta e iniciativas. Etapa III",
     "type": "book",
     "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices4-22"
+  },
+  {
+    "URL": "https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap27.html",
+    "author": [
+      {
+        "literal": "Open Group"
+      }
+    ],
+    "container-title": "TOGAF 9.1. Risk management (2023)",
+    "id": "XhjOmyqw",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "87-90",
+    "title": "Administración del riesgo de arquitcturas",
+    "type": "paper-conference",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices5-23"
   }
 ]
