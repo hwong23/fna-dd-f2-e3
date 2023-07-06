@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-06" />
   <meta name="citation_publication_date" content="2023-07-06" />
   <meta property="article:published_time" content="2023-07-06" />
-  <meta name="dc.modified" content="2023-07-06T05:51:35+00:00" />
-  <meta property="article:modified_time" content="2023-07-06T05:51:35+00:00" />
+  <meta name="dc.modified" content="2023-07-06T06:00:35+00:00" />
+  <meta property="article:modified_time" content="2023-07-06T06:00:35+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/72a96c90f2aab350de5e06f57587f654d5df1d6b/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/72a96c90f2aab350de5e06f57587f654d5df1d6b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/72a96c90f2aab350de5e06f57587f654d5df1d6b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/d0ab1d8bbe6135f2e4aeef64bfc10b2cc6dde65b/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/d0ab1d8bbe6135f2e4aeef64bfc10b2cc6dde65b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/d0ab1d8bbe6135f2e4aeef64bfc10b2cc6dde65b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/fna-dd-f2-e3/v/72a96c90f2aab350de5e06f57587f654d5df1d6b/))
+([permalink](https://hwong23.github.io/fna-dd-f2-e3/v/d0ab1d8bbe6135f2e4aeef64bfc10b2cc6dde65b/))
 was automatically generated
-from [hwong23/fna-dd-f2-e3@72a96c9](https://github.com/hwong23/fna-dd-f2-e3/tree/72a96c90f2aab350de5e06f57587f654d5df1d6b)
+from [hwong23/fna-dd-f2-e3@d0ab1d8](https://github.com/hwong23/fna-dd-f2-e3/tree/d0ab1d8bbe6135f2e4aeef64bfc10b2cc6dde65b)
 on July 6, 2023.
 </em></small>
 
@@ -333,7 +333,7 @@ Table: A table with a top caption and specified relative column widths.
 Table: A table too wide to fit within page.
 {#tbl:constant-digits}
 
-|          | **Colors** <!-- $colspan="2" --> |                      |
+|          | **Colors** <!-- ="2" --> |                      |
 |:--------:|:--------------------------------:|:--------------------:|
 | **Size** | **Text Color**                   | **Background Color** |
 | big      | blue                             | orange               |
@@ -350,7 +350,7 @@ $$\int_0^\infty e^{-x^2} dx=\frac{\sqrt{\pi}}{2}$$ {#eq:regular-equation}
 
 An equation too long to fit within page:
 
-$$x = a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t + u + v + w + x + y + z + 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9$$ {#eq:long-equation}
+$ = a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t + u + v + w + x + y + z + 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9$$ {#eq:long-equation}
 
 ## Special
 
@@ -376,7 +376,7 @@ Manubot Manubot Manubot Manubot.
 Manubot Manubot Manubot.
 Manubot Manubot.
 Manubot.
-<!-- $id="element_id" class="some_class" $style="color: #ad1457; margin-left: 40px;" $disabled="true" $title="a paragraph of text" $data-color="red" -->
+<!-- ="element_id" class="some_class" ="color: #ad1457; margin-left: 40px;" ="true" ="a paragraph of text" -color="red" -->
 
 Available background colors for text, images, code, banners, etc:  
 
