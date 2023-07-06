@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-06" />
   <meta name="citation_publication_date" content="2023-07-06" />
   <meta property="article:published_time" content="2023-07-06" />
-  <meta name="dc.modified" content="2023-07-06T06:00:35+00:00" />
-  <meta property="article:modified_time" content="2023-07-06T06:00:35+00:00" />
+  <meta name="dc.modified" content="2023-07-06T06:06:11+00:00" />
+  <meta property="article:modified_time" content="2023-07-06T06:06:11+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/d0ab1d8bbe6135f2e4aeef64bfc10b2cc6dde65b/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/d0ab1d8bbe6135f2e4aeef64bfc10b2cc6dde65b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/d0ab1d8bbe6135f2e4aeef64bfc10b2cc6dde65b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/dad73d958d975588e525b68febff4a7dfef5c53a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/dad73d958d975588e525b68febff4a7dfef5c53a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/dad73d958d975588e525b68febff4a7dfef5c53a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,19 +65,19 @@ manubot-clear-requests-cache: false
 
 
 
-
-
-<small><em>
-This manuscript
-([permalink](https://hwong23.github.io/fna-dd-f2-e3/v/d0ab1d8bbe6135f2e4aeef64bfc10b2cc6dde65b/))
-was automatically generated
-from [hwong23/fna-dd-f2-e3@d0ab1d8](https://github.com/hwong23/fna-dd-f2-e3/tree/d0ab1d8bbe6135f2e4aeef64bfc10b2cc6dde65b)
-on July 6, 2023.
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e3/v/dad73d958d975588e525b68febff4a7dfef5c53a/))
+están basados en el resultado de la consultoría "Arquitectura E-Service",
+[Sharepoint STEF@dad73d9](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del July 6, 2023.
 </em></small>
 
+|    **Versión** del producto 1.dad73d9 de 06 Jul 2023
 
 
-## Authors
+
+<br>
+
+## Autores
 
 
 
@@ -85,7 +85,7 @@ on July 6, 2023.
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    · ![Usuario](images/github.svg){.inline_icon width=16 height=16}
     [johndoe](https://github.com/johndoe)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
     [johndoe](https://twitter.com/johndoe)
@@ -101,7 +101,7 @@ on July 6, 2023.
   ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    · ![Usuario](images/github.svg){.inline_icon width=16 height=16}
     [janeroe](https://github.com/janeroe)
     <br>
   <small>
@@ -110,17 +110,33 @@ on July 6, 2023.
 
 
 ::: {#correspondence}
-✉ — Correspondence possible via [GitHub Issues](https://github.com/hwong23/fna-dd-f2-e3/issues)
-or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+✉ — Enviar mensajes a Jane Roe \<jane.roe@whatever.edu\>.
 
 
 :::
 
+<br>
 
-## Abstract {.page_break_before}
 
 
+## Objetivo del Documento
+Entrega de los productos de la Etapa 3, , del proyecto Gobierno SOA: Políticas, flujos de trabajo y personas que ejercitan y conforman (cumplen) con el gobierno SOA del FNA a desplegar a cargo de la oficina de arquitectura.
+
+##  Control de Cambios {.page_break_before}
+| Tema           | PRY01 Gobierno SOA FNA     |
+|----------------|----------------------------|
+| Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
+| Autor          |                            |
+| Fuente         |                            |
+| Versión        | 1.dad73d9 del 06 Jul 2023 |
+| Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
+
+<br>
+
+<br>
+
+<div style="page-break-before: always;"></div>
+\newpage
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
