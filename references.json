@@ -100,5 +100,26 @@
     "title": "Administración del riesgo de arquitecturas SOA",
     "type": "paper-conference",
     "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices5-23"
+  },
+  {
+    "URL": "https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap27.html",
+    "author": [
+      {
+        "literal": "P. Shanmugapriya. Department of CSE, SCSVMV University, Enathur, Tamilnadu, INDIA"
+      }
+    ],
+    "container-title": "Software architecture evaluation methods – a survey",
+    "id": "IGumhWwJ",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "87-90",
+    "title": "Métodos de evaluación de arquitecturas de software (extensible a servicios)",
+    "type": "paper-conference",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices6-12"
   }
 ]
