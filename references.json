@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "URL": "https://hwong23.github.io/fna-devdoc-f1/v/6497aef0f15c3591f0728e4c42cb2c26c13b43aa/",
+    "author": [
+      {
+        "literal": "Stefanini, FNA"
+      }
+    ],
+    "id": "NHbSv3dn",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          6
+        ]
+      ]
+    },
+    "title": "E-service FNA: Diagnóstico SOA actual",
+    "title-short": "E-service FNA",
+    "type": "book",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices22"
+  }
+]

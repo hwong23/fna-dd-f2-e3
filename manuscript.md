@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-06" />
   <meta name="citation_publication_date" content="2023-07-06" />
   <meta property="article:published_time" content="2023-07-06" />
-  <meta name="dc.modified" content="2023-07-06T13:21:24+00:00" />
-  <meta property="article:modified_time" content="2023-07-06T13:21:24+00:00" />
+  <meta name="dc.modified" content="2023-07-06T17:35:05+00:00" />
+  <meta property="article:modified_time" content="2023-07-06T17:35:05+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/4f406882d68f5ba92e30904563a42537b59c8c8f/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/4f406882d68f5ba92e30904563a42537b59c8c8f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/4f406882d68f5ba92e30904563a42537b59c8c8f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/8e822dc358a67eb23b9ae70eb96b3cafd4869a52/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/8e822dc358a67eb23b9ae70eb96b3cafd4869a52/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/8e822dc358a67eb23b9ae70eb96b3cafd4869a52/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -58,6 +58,7 @@ header-includes: |
   <meta name="theme-color" content="#ad1457" />
   <!-- end Manubot generated metadata -->
 bibliography:
+- content/manual-references.bib
 - content/manual-references.json
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
@@ -68,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e3/v/4f406882d68f5ba92e30904563a42537b59c8c8f/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e3/v/8e822dc358a67eb23b9ae70eb96b3cafd4869a52/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@4f40688](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@8e822dc](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 6, 2023.
 </em></small>
 
-|    **Versión** del producto 1.4f40688 de 06 Jul 2023
+|    **Versión** del producto 1.8e822dc de 06 Jul 2023
 
 
 
@@ -140,7 +141,7 @@ Entrega de los productos de la Etapa 3, PR06. Modelos actualizados de los ítems
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.4f40688 del 06 Jul 2023 |
+| Versión        | 1.8e822dc del 06 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -181,12 +182,12 @@ tablenos-caption-name: Tabla
 >
 >    06 Jul 2023
 >
->    **Versión** 1.4f40688
+>    **Versión** 1.8e822dc
 
 <br>
 
 # Producto 6: PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto
-De las primeras actividades de esta consultoría (Organización, Fase I, 2022) fue la organización de la información de arquitectura e ingeniería entregada al proyecto en su momento. El desglose de esta información es como sigue
+De las primeras actividades de esta consultoría (Organización, Fase I, 2022. @eservices22) fue la organización de la información de arquitectura e ingeniería entregada al proyecto en su momento. El desglose de esta información es como sigue
 
 | Tipo de Entrada      |          |
 |----------------------|----------|
@@ -250,7 +251,8 @@ _Fuente: Elaboración propia._
 * E-Service. Situación SOA Actual del FNA. Etapa I. (2022).
 * E-Service. Arquitectura de Referencia del FNA. Etapa II. (2023).
 * E-Service. Hoja de Ruta e Iniciativas. Etapa III. (2023).
-* TOGAF 9.1. Risk Management (2023). En https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap27.html
+* TOGAF 9.1. Risk Management (2023). 
+     En https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap27.html
 * Software Architecture Evaluation Methods – A survey. P. Shanmugapriya, Research Scholar, Department of CSE, SCSVMV University, Enathur, Tamilnadu,INDIA
 </div>
 
