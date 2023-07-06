@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-06" />
   <meta name="citation_publication_date" content="2023-07-06" />
   <meta property="article:published_time" content="2023-07-06" />
-  <meta name="dc.modified" content="2023-07-06T06:11:58+00:00" />
-  <meta property="article:modified_time" content="2023-07-06T06:11:58+00:00" />
+  <meta name="dc.modified" content="2023-07-06T06:15:13+00:00" />
+  <meta property="article:modified_time" content="2023-07-06T06:15:13+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/262bc0fc1a93ca107986883dec7dc1c31b1ea919/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/262bc0fc1a93ca107986883dec7dc1c31b1ea919/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/262bc0fc1a93ca107986883dec7dc1c31b1ea919/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/3659ca06f316a832f4b1ceb83065411fbc5c4ce5/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/3659ca06f316a832f4b1ceb83065411fbc5c4ce5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/3659ca06f316a832f4b1ceb83065411fbc5c4ce5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,13 +65,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e3/v/262bc0fc1a93ca107986883dec7dc1c31b1ea919/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e3/v/3659ca06f316a832f4b1ceb83065411fbc5c4ce5/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@262bc0f](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@3659ca0](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 6, 2023.
 </em></small>
 
-|    **Versión** del producto 1.262bc0f de 06 Jul 2023
+|    **Versión** del producto 1.3659ca0 de 06 Jul 2023
 
 
 
@@ -128,7 +128,7 @@ Entrega de los productos de la Etapa 3, PR06. Modelos actualizados de los ítems
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.262bc0f del 06 Jul 2023 |
+| Versión        | 1.3659ca0 del 06 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -169,11 +169,11 @@ tablenos-caption-name: Tabla
 >
 >    06 Jul 2023
 >
->    **Versión** 1.262bc0f
+>    **Versión** 1.3659ca0
 
 <br>
 
-# Producto 4: 
+# Producto 6: PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto
 Desarrollo de procedimientos, funciones, entregables, selección de roles y herramientas a desplegar para la puesta en marcha de un Comité de Arquitectura del FNA adscrito a la Vicepresidencia de Tecnología FNA y en cumplimiento con el Gobierno SOA, versión 0.5, objeto de este proyecto.
 
 **Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: desarrollo, gestión, gobierno de arquitectura y adopción.
@@ -199,7 +199,7 @@ El Comité de Arquitectura es la entidad de supervisión ubicada entre la oficin
 <br>
 
 ## Modelo de Implementación del PRY01
-![Plan de Implementación del Proyecto Gobierno SOA del FNA (PRY01), 2023. Junio 2023 a julio 2023](images/pry1gobierno.jpg){#fig: width=lin}
+![Plan de Implementación del Proyecto Gobierno SOA del FNA (PRY01), 2023. Junio 2023 a julio 2023](images/pry1gobierno.jpg){#fig: width=}
 
 _Fuente: Elaboración propia._
 
