@@ -87,7 +87,7 @@
         "literal": "Open Group"
       }
     ],
-    "container-title": "TOGAF 9.1. Risk management (2023)",
+    "container-title": "TOGAF 9.1. Risk management",
     "id": "XhjOmyqw",
     "issued": {
       "date-parts": [
@@ -97,7 +97,7 @@
       ]
     },
     "page": "87-90",
-    "title": "Administración del riesgo de arquitcturas",
+    "title": "Administración del riesgo de arquitecturas SOA",
     "type": "paper-conference",
     "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices5-23"
   }
