@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-06" />
   <meta name="citation_publication_date" content="2023-07-06" />
   <meta property="article:published_time" content="2023-07-06" />
-  <meta name="dc.modified" content="2023-07-06T12:19:56+00:00" />
-  <meta property="article:modified_time" content="2023-07-06T12:19:56+00:00" />
+  <meta name="dc.modified" content="2023-07-06T12:41:45+00:00" />
+  <meta property="article:modified_time" content="2023-07-06T12:41:45+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/fed7c146f0b2194de2381928a9d343001975bc59/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/fed7c146f0b2194de2381928a9d343001975bc59/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/fed7c146f0b2194de2381928a9d343001975bc59/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/810447cdcba825e87197c30ea6ea8885c33b4dde/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/810447cdcba825e87197c30ea6ea8885c33b4dde/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/810447cdcba825e87197c30ea6ea8885c33b4dde/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,13 +68,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e3/v/fed7c146f0b2194de2381928a9d343001975bc59/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e3/v/810447cdcba825e87197c30ea6ea8885c33b4dde/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@fed7c14](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@810447c](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 6, 2023.
 </em></small>
 
-|    **Versión** del producto 1.fed7c14 de 06 Jul 2023
+|    **Versión** del producto 1.810447c de 06 Jul 2023
 
 
 
@@ -140,7 +140,7 @@ Entrega de los productos de la Etapa 3, PR06. Modelos actualizados de los ítems
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.fed7c14 del 06 Jul 2023 |
+| Versión        | 1.810447c del 06 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -181,12 +181,30 @@ tablenos-caption-name: Tabla
 >
 >    06 Jul 2023
 >
->    **Versión** 1.fed7c14
+>    **Versión** 1.810447c
 
 <br>
 
 # Producto 6: PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto
-Desarrollo de procedimientos, funciones, entregables, selección de roles y herramientas a desplegar para la puesta en marcha de un Comité de Arquitectura del FNA adscrito a la Vicepresidencia de Tecnología FNA y en cumplimiento con el Gobierno SOA, versión 0.5, objeto de este proyecto.
+De las primeras actividades de esta consultoría (Organización, Fase I, 20222) fue la organización de la información de arquitectura e ingeniería entregada al proyecto en su momento. El desglose de esta información es como sigue
+
+| Tipo de Entrada |  |
+| ------------------------------|--|
+| Aplicación	| 	107 |
+| Arquitectura| 	352 |
+| Funcional		| 61 |
+| Información | 	248 |
+| Servicios		| 543 |
+| Total Contenidos | 	1311 |
+
+Table: Repositorio FNA (versión 0.1). Elementos de la línea base del repositorio de arquitectura FNA, versión 0.1.
+
+Esta información constituye lo que llamamos el inventario inicial, línea base, del repositorio de arquitectura, versión 0.1.
+
+A este producto del proyecto, PRY01, y en virtud de las actividades desarrolladas aquí (las cuales han actualizados la línea base de este repositorio) le corresponde hacer entrega de estas modificaciones al FNA.
+
+<br>
+
 
 **Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: desarrollo, gestión, gobierno de arquitectura y adopción.
 
@@ -196,19 +214,21 @@ Desarrollo de procedimientos, funciones, entregables, selección de roles y herr
 Uno de los objetivos nominales del Gobierno SOA del FNA, objeto de este proyecto, es _aumentar la relevancia de los de modelos de arquitectura: instrumentos de encuentro para el entendimiento, análisis, y comunicación entre actores_. Los modelos son por tanto el sujeto y principal la evidencia de la existencia del gobierno. De ahí que los modelos de arquitectura del FNA modificados a razón de este proyecto han sido modificados, tengan la importancia de un entregable.
 
 ## Contenidos
-1. Modelo operativo del Comité de Gobierno de Arquitectura del FNA: actores, información y procedimientos
-1. Consideraciones para la puesta en marcha del Comité
-1. Soporte a la Oficina de Arquitecura (Pr02) y a la Vicepresidencia de Tecnología del FNA
-1. Matriz de responsabilidades y procedimientos del Comité de Arquitectura
-1. Método de evaluación de arquitecturas para el FNA
+1. Detalle de ítems de la leinea base del FNA actualizados 
+1. Repositorio de arquitectura del FNA, actualizado, versión 0.2
 
 <br>
 
 ## Criterios de Aceptación
-* Entendimiento funcional y operativa del comité de arquitectura del FNA
-* Matriz de roles y procedimientos del del comité de  arquitetura del FNA
+* Repositorio de arquitectura del FNA, actualizado, versión 0.2
 
 <br>
+
+## Repositorio de Arquitectura del FNA, versión 0.1
+![Artefactos del repositorio de arquitectura del FNA.](images/repofna.png){#fig: width=}
+
+_Fuente: Diagnóstico SOA. E-Service (2022)._
+
 
 ## Modelo de Implementación del PRY01
 ![Plan de Implementación del Proyecto Gobierno SOA del FNA (PRY01), 2023. Junio 2023 a julio 2023](images/pry1gobierno.jpg){#fig: width=}
