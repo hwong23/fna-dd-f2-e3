@@ -73,6 +73,7 @@ jobs:
           echo "PROYECTO=PRY01" >> $GITHUB_ENV
           echo "PROY_DESCR=Gobierno SOA del FNA" >> $GITHUB_ENV
           echo "PR06=PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto" >> $GITHUB_ENV
+          echo "PR07=PR07. Métricas de efectividad del gobierno" >> $GITHUB_ENV
 
       - name: Cache
         uses: actions/cache@v3
