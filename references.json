@@ -1,6 +1,6 @@
 [
   {
-    "URL": "",
+    "URL": "https://hwong23.github.io/fna-devdoc-f1/v/6497aef0f15c3591f0728e4c42cb2c26c13b43aa/",
     "author": [
       {
         "literal": "Stefanini, FNA"
@@ -10,13 +10,12 @@
     "issued": {
       "date-parts": [
         [
-          2023,
+          2022,
           6
         ]
       ]
     },
-    "title": "E-service FNA: Modelo de gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA",
-    "title-short": "E-service FNA",
+    "title": "E-service. Diagnóstico SOA actual del FNA. Etapa i",
     "type": "book",
     "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices1-22"
   },
@@ -101,5 +100,26 @@
     "title": "Métodos de evaluación de arquitecturas de software (extensible a servicios)",
     "type": "paper-conference",
     "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices6-12"
+  },
+  {
+    "URL": "https://hwong23.github.io/fna-dd-f2-e1/",
+    "author": [
+      {
+        "literal": "Stefanini, FNA"
+      }
+    ],
+    "id": "c3MMLZMM",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          6
+        ]
+      ]
+    },
+    "title": "E-service FNA: Modelo de gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA",
+    "title-short": "E-service FNA",
+    "type": "book",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices7-23"
   }
 ]
