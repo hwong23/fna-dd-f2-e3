@@ -1,6 +1,6 @@
 [
   {
-    "URL": "https://hwong23.github.io/fna-devdoc-f1/v/6497aef0f15c3591f0728e4c42cb2c26c13b43aa/",
+    "URL": "",
     "author": [
       {
         "literal": "Stefanini, FNA"
@@ -10,35 +10,15 @@
     "issued": {
       "date-parts": [
         [
-          2022,
+          2023,
           6
         ]
       ]
     },
-    "title": "E-service FNA: Diagnóstico SOA actual",
+    "title": "E-service FNA: Modelo de gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA",
     "title-short": "E-service FNA",
     "type": "book",
     "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices1-22"
-  },
-  {
-    "URL": "https://hwong23.github.io/fna-devdoc-f1/v/6497aef0f15c3591f0728e4c42cb2c26c13b43aa/",
-    "author": [
-      {
-        "literal": "Stefanini, FNA"
-      }
-    ],
-    "id": "136pJQOQ0",
-    "issued": {
-      "date-parts": [
-        [
-          2022,
-          6
-        ]
-      ]
-    },
-    "title": "E-service. Situación SOA actual del FNA. Etapa i",
-    "type": "book",
-    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices2-22"
   },
   {
     "URL": "https://hwong23.github.io/fna-devdoc-f1/v/6497aef0f15c3591f0728e4c42cb2c26c13b43aa/",

@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-07-06'
+date-meta: '2023-07-08'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
-  <meta name="dc.date" content="2023-07-06" />
-  <meta name="citation_publication_date" content="2023-07-06" />
-  <meta property="article:published_time" content="2023-07-06" />
-  <meta name="dc.modified" content="2023-07-06T18:52:22+00:00" />
-  <meta property="article:modified_time" content="2023-07-06T18:52:22+00:00" />
+  <meta name="dc.date" content="2023-07-08" />
+  <meta name="citation_publication_date" content="2023-07-08" />
+  <meta property="article:published_time" content="2023-07-08" />
+  <meta name="dc.modified" content="2023-07-08T20:09:41+00:00" />
+  <meta property="article:modified_time" content="2023-07-08T20:09:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/fc1b268a0405d6ee5d7a541c41416eae66b545e3/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/fc1b268a0405d6ee5d7a541c41416eae66b545e3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/fc1b268a0405d6ee5d7a541c41416eae66b545e3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/f3c78213678cc9bbcc0fea89405c59916f8c86a4/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/f3c78213678cc9bbcc0fea89405c59916f8c86a4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/f3c78213678cc9bbcc0fea89405c59916f8c86a4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/fc1b268a0405d6ee5d7a541c41416eae66b545e3/))
+<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/f3c78213678cc9bbcc0fea89405c59916f8c86a4/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@fc1b268](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del July 6, 2023.
+[Sharepoint STEF@f3c7821](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del July 8, 2023.
 </em></small>
 
-|    **Versión** del producto 1.fc1b268 de 06 Jul 2023
+|    **Versión** del producto 1.f3c7821 de 08 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 3, PR06. Modelos actualizados de los ítems
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.fc1b268 del 06 Jul 2023 |
+| Versión        | 1.f3c7821 del 08 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,9 +180,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    06 Jul 2023
+>    08 Jul 2023
 >
->    **Versión** 1.fc1b268
+>    **Versión** 1.f3c7821
 
 <br>
 
@@ -213,7 +213,73 @@ A este producto del proyecto, PRY01, y en virtud de las actividades desarrollada
 <br>
 
 ## Justificación
-Uno de los objetivos nominales del Gobierno SOA del FNA, objeto de este proyecto, es _aumentar la relevancia de los de modelos de arquitectura: instrumentos de encuentro para el entendimiento, análisis, y comunicación entre actores_. Los modelos son por tanto el sujeto y principal la evidencia de la existencia del gobierno. De ahí que los modelos de arquitectura del FNA modificados a razón de este proyecto han sido modificados, tengan la importancia de un entregable.
+Uno de los objetivos nominales del Gobierno SOA del FNA, objeto de este proyecto, es _aumentar la relevancia de los modelos de arquitectura de la empresa: instrumentos de encuentro para el entendimiento, análisis, y comunicación entre actores (ingenieros, arquitectos y proveedores)_. Los modelos son por tanto el sujeto principal y la evidencia de la existencia del gobierno. De ahí que los modelos de arquitectura del FNA modificados a razón de este proyecto tengan la importancia tal para ser entregados en plena contribuición al repositorio de arquitectura y a este gobierno.
+
+## Contenidos
+1. Detalle de ítems de la línea base del FNA actualizados 
+1. Repositorio de arquitectura del FNA, actualizado, versión 0.2
+1. Herramienta de navegación del repositorio de arquitectura del FNA versión 0.2
+
+<br>
+
+## Criterios de Aceptación
+* Repositorio de arquitectura del FNA, actualizado, versión 0.2
+* Herramienta de navegación del repositorio de arquitectura del FNA versión 0.2
+
+<br>
+
+## Repositorio de Arquitectura del FNA, versión 0.1
+![Artefactos del repositorio de arquitectura del FNA.](images/repofna.png){#fig: width=}
+
+_Fuente: Diagnóstico SOA. E-Service (2022)._
+
+
+## Modelo de Implementación del PRY01
+![Plan de Implementación del Proyecto Gobierno SOA del FNA (PRY01), 2023. Junio 2023 a julio 2023](images/pry1gobierno.jpg){#fig: width=}
+
+_Fuente: Elaboración propia._
+
+<br>
+
+
+---
+geometry:
+  - top=1in
+  - bottom=1in
+fignos-cleveref: True
+fignos-plus-name: Fig.
+fignos-caption-name: Imagen
+tablenos-caption-name: Tabla
+...
+
+<div style="page-break-before: always;"></div>
+\newpage
+
+>    E-Service. Fase II
+>
+>    PRY01. Gobierno SOA del FNA. Contenido de los Productos Contractuales
+>
+>    Contrato 1812020
+>
+>    FNA, Stefanini
+>
+>    08 Jul 2023
+>
+>    **Versión** 1.f3c7821
+
+<br>
+
+# Producto 7: PR07. Métricas de efectividad del gobierno
+Más allá de los índices propuestos por el diagnóstico de madurez SOA desarrollado en la Fase 1 de esta consultoría (@eservices1-22), es clave que el FNA mantenga el vínculo de sus activos (de infraestructura, hardware, software, activos SOA, con el contexto de negocio de las vicepresidencias de Operaciones, de Crédito, y demás áreas conyunturales. Esto es, y para los fines de este producto, _el principal indicador del gobierno SOA es la existencia y vigencia de los vínculos entre los contextos de negocio y las arquitecturas FNA_, relación que se extiende también a su tecnología e infraestructura.
+
+<br>
+
+**Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: desarrollo, gestión, gobierno de arquitectura y adopción.
+
+<br>
+
+## Justificación
+De los indicadores de eficacia postulados en este producto, el del vínculo de los contextos negocio-tecnología SOA es el que más valor reporta al gobierno SOA y de las arquitecturas del FNA. Su utiliación puede alcanzar a otras disciplinas de gestión TI: identifica y justifica los costos de un cambio en relación al Valor de negocio que este pueda traer. Sirve también como criterio cuantitativo para los procesos de la mayoría de las decisiones de cambio, mejora, inversión, recorte, y otras operaciones propias de la gestión de la tecnología SOA. Por último, es la base para medir la confiabilidad de los modelos, y por ende, de los los análisis que sobr estos los arquitectos de la Oficina de Arquitectura del FNA realicen (ver ). Es por estas razones que para el Fondo este es el principal indicador de gobierno SOA a desarrollar.
 
 ## Contenidos
 1. Detalle de ítems de la línea base del FNA actualizados 
