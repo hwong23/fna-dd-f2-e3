@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-07-08'
+date-meta: '2023-07-10'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
-  <meta name="dc.date" content="2023-07-08" />
-  <meta name="citation_publication_date" content="2023-07-08" />
-  <meta property="article:published_time" content="2023-07-08" />
-  <meta name="dc.modified" content="2023-07-08T20:27:09+00:00" />
-  <meta property="article:modified_time" content="2023-07-08T20:27:09+00:00" />
+  <meta name="dc.date" content="2023-07-10" />
+  <meta name="citation_publication_date" content="2023-07-10" />
+  <meta property="article:published_time" content="2023-07-10" />
+  <meta name="dc.modified" content="2023-07-10T17:28:47+00:00" />
+  <meta property="article:modified_time" content="2023-07-10T17:28:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/5ef5c77d6340e7805c7de508ea1fb449efd386c7/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/5ef5c77d6340e7805c7de508ea1fb449efd386c7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/5ef5c77d6340e7805c7de508ea1fb449efd386c7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/a9521f6b875435d0f904b404fb4ad672cd1af4a9/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/a9521f6b875435d0f904b404fb4ad672cd1af4a9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/a9521f6b875435d0f904b404fb4ad672cd1af4a9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/5ef5c77d6340e7805c7de508ea1fb449efd386c7/))
+<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/a9521f6b875435d0f904b404fb4ad672cd1af4a9/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@5ef5c77](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del July 8, 2023.
+[Sharepoint STEF@a9521f6](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del July 10, 2023.
 </em></small>
 
-|    **Versión** del producto 1.5ef5c77 de 08 Jul 2023
+|    **Versión** del producto 1.a9521f6 de 10 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 3, PR06. Modelos actualizados de los ítems
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.5ef5c77 del 08 Jul 2023 |
+| Versión        | 1.a9521f6 del 10 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,9 +180,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    08 Jul 2023
+>    10 Jul 2023
 >
->    **Versión** 1.5ef5c77
+>    **Versión** 1.a9521f6
 
 <br>
 
@@ -242,25 +242,6 @@ _Fuente: Elaboración propia._
 <br>
 
 
-<div style="page-break-before: always;"></div>
-\newpage
-
-| Tema           | Gobierno SOA del FNA: **Modelo de Gobierno y CCF**         |
-|----------------|------------------------------------------------------------|
-| Palabras clave | SOA, Contexto, Áreas, Procesos, Efectividad, Factibilidad, Objetivos                            |
-| Autor          |                                                            |
-| Fuente         |                                                            |
-| Versión        | **1.5ef5c77** del 08 Jul 2023                       |
-| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
-
-<br>
-
-[007na1c. Capacidades y Gobierno SOA]
-https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/_layouts/OneNote.aspx?id=%2Fpersonal%2Fha_wong10_uniandes_edu_co%2FDocuments%2FBlocs%20de%20notas%2FHarry%20Alfredo%20%40%20Work&wd=target%28SOA%2FSOA.one%7C54D369EF-B7AB-4AC1-8D87-059C763394A1%2F007na1c.%20Capacidades%20y%20Gobierno%20SOA%7CEE66B38D-4CD5-4280-BFBA-B5FFE3E0A1C7%2F%29
-onenote:https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/SOA.one#007na1c.%20Capacidades%20y%20Gobierno%20SOA&section-id={54D369EF-B7AB-4AC1-8D87-059C763394A1}&page-id={EE66B38D-4CD5-4280-BFBA-B5FFE3E0A1C7}&end
-
-
-
 ---
 geometry:
   - top=1in
@@ -282,14 +263,14 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    08 Jul 2023
+>    10 Jul 2023
 >
->    **Versión** 1.5ef5c77
+>    **Versión** 1.a9521f6
 
 <br>
 
 # Producto 7: PR07. Métricas de efectividad del gobierno
-Más allá de los índices propuestos por el diagnóstico de madurez SOA desarrollado en la Fase 1 de esta consultoría (@eservices1-22), es clave que el FNA mantenga el vínculo de sus activos (de infraestructura, hardware, software, activos SOA, con el contexto de negocio de las vicepresidencias de Operaciones, de Crédito, y demás áreas conyunturales. Esto es, y para los fines de este producto, _el principal indicador del gobierno SOA es la existencia y vigencia de los vínculos entre los contextos de negocio y las arquitecturas FNA_, relación que se extiende también a su tecnología e infraestructura.
+Más allá de los índices propuestos por el diagnóstico de madurez SOA desarrollado en la Fase 1 de esta consultoría (@eservices1-22), es clave que el FNA mantenga el vínculo de sus activos de tecnología (infraestructura, hardware, software, servicios SOA, ...) con el contexto de negocio de las vicepresidencias de Operaciones, de Crédito, y demás áreas. Esto es, y para los fines de este producto, _el principal indicador del gobierno SOA por desarrollar, mantener y vigilar, es la existencia y vigencia de estos vínculos entre los contextos de negocio y las arquitecturas FNA_, vínculo que extiende su utilidad a la toma de decisiones y selección de proyectos de brecha tecnológica e infraestructura del FNA.
 
 <br>
 
@@ -301,23 +282,17 @@ Más allá de los índices propuestos por el diagnóstico de madurez SOA desarro
 De los indicadores de eficacia postulados en este producto, el del _vínculo de los contextos negocio-tecnología SOA_ es el que más valor reporta al gobierno SOA y a las arquitecturas del FNA. Su utilización puede alcanzar a otras disciplinas de gestión TI: identifica y justifica los costos de un cambio en relación al _Valor de negocio_ que este pueda traer. Sirve también como criterio cuantitativo para los procesos de la mayoría de las decisiones de cambio, mejora, inversión, recorte, y otras operaciones propias de la gestión de la tecnología SOA. Por último, es la base para medir la confiabilidad de los modelos, y por ende, de los los análisis que sobre estos los arquitectos de la Oficina de Arquitectura del FNA realicen (ver @eservices7-23). Estas razones elevan a este como el principal indicador de gobierno SOA a desarrollar.
 
 ## Contenidos
-1. Detalle de ítems de la línea base del FNA actualizados 
-1. Repositorio de arquitectura del FNA, actualizado, versión 0.2
-1. Herramienta de navegación del repositorio de arquitectura del FNA versión 0.2
+1. Sistema de medición (indicadores clave de gestión) del gobierno SOA del FNA 
+1. Sistema de medición (indicadores) de la Oficina de Arquitectura del FNA
+1. Consideraciones para el uso y despliegue de tableros de gestión de arquitectura
 
 <br>
 
 ## Criterios de Aceptación
-* Repositorio de arquitectura del FNA, actualizado, versión 0.2
-* Herramienta de navegación del repositorio de arquitectura del FNA versión 0.2
+* Validación del despliegue de tableros de gestión de la arquitectura FNA
+* Lista de indicadores de arquitectura posibles en el FNA
 
 <br>
-
-## Repositorio de Arquitectura del FNA, versión 0.1
-![Artefactos del repositorio de arquitectura del FNA.](images/repofna.png){#fig: width=}
-
-_Fuente: Diagnóstico SOA. E-Service (2022)._
-
 
 ## Modelo de Implementación del PRY01
 ![Plan de Implementación del Proyecto Gobierno SOA del FNA (PRY01), 2023. Junio 2023 a julio 2023](images/pry1gobierno.jpg){#fig: width=}
@@ -325,6 +300,25 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 _Fuente: Elaboración propia._
 
 <br>
+
+
+<div style="page-break-before: always;"></div>
+\newpage
+
+| Tema           | Gobierno SOA del FNA: **Modelo de Gobierno y CCF**         |
+|----------------|------------------------------------------------------------|
+| Palabras clave | SOA, Contexto, Áreas, Procesos, Efectividad, Factibilidad, Objetivos                            |
+| Autor          |                                                            |
+| Fuente         |                                                            |
+| Versión        | **1.a9521f6** del 10 Jul 2023                       |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
+
+<br>
+
+[007na1c. Capacidades y Gobierno SOA]
+https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/_layouts/OneNote.aspx?id=%2Fpersonal%2Fha_wong10_uniandes_edu_co%2FDocuments%2FBlocs%20de%20notas%2FHarry%20Alfredo%20%40%20Work&wd=target%28SOA%2FSOA.one%7C54D369EF-B7AB-4AC1-8D87-059C763394A1%2F007na1c.%20Capacidades%20y%20Gobierno%20SOA%7CEE66B38D-4CD5-4280-BFBA-B5FFE3E0A1C7%2F%29
+onenote:https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/SOA.one#007na1c.%20Capacidades%20y%20Gobierno%20SOA&section-id={54D369EF-B7AB-4AC1-8D87-059C763394A1}&page-id={EE66B38D-4CD5-4280-BFBA-B5FFE3E0A1C7}&end
+
 
 
 <div style="page-break-before: always;"></div>
