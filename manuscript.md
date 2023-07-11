@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-07-10'
+date-meta: '2023-07-11'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
-  <meta name="dc.date" content="2023-07-10" />
-  <meta name="citation_publication_date" content="2023-07-10" />
-  <meta property="article:published_time" content="2023-07-10" />
-  <meta name="dc.modified" content="2023-07-10T22:50:16+00:00" />
-  <meta property="article:modified_time" content="2023-07-10T22:50:16+00:00" />
+  <meta name="dc.date" content="2023-07-11" />
+  <meta name="citation_publication_date" content="2023-07-11" />
+  <meta property="article:published_time" content="2023-07-11" />
+  <meta name="dc.modified" content="2023-07-11T15:35:51+00:00" />
+  <meta property="article:modified_time" content="2023-07-11T15:35:51+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/6ff69bbc4be43766c5bbdefc44621109caa902cd/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/6ff69bbc4be43766c5bbdefc44621109caa902cd/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/6ff69bbc4be43766c5bbdefc44621109caa902cd/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/677d49ee76dfc93c07c36a0ff09a4b880bd38f0c/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/677d49ee76dfc93c07c36a0ff09a4b880bd38f0c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/677d49ee76dfc93c07c36a0ff09a4b880bd38f0c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/6ff69bbc4be43766c5bbdefc44621109caa902cd/))
+<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/677d49ee76dfc93c07c36a0ff09a4b880bd38f0c/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@6ff69bb](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del July 10, 2023.
+[Sharepoint STEF@677d49e](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del July 11, 2023.
 </em></small>
 
-|    **Versión** del producto 1.6ff69bb de 10 Jul 2023
+|    **Versión** del producto 1.677d49e de 11 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 3, PR06. Modelos actualizados de los ítems
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.6ff69bb del 10 Jul 2023 |
+| Versión        | 1.677d49e del 11 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,9 +180,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    10 Jul 2023
+>    11 Jul 2023
 >
->    **Versión** 1.6ff69bb
+>    **Versión** 1.677d49e
 
 <br>
 
@@ -263,9 +263,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    10 Jul 2023
+>    11 Jul 2023
 >
->    **Versión** 1.6ff69bb
+>    **Versión** 1.677d49e
 
 <br>
 
@@ -305,12 +305,12 @@ _Fuente: Elaboración propia._
 <div style="page-break-before: always;"></div>
 \newpage
 
-| Tema           | Métricas de Efectividad de Arquitectura: **Sistema de Medición del Gobierno SOA del FNA: indicadores clave de gestión**         |
+| Tema           | Métricas de Efectividad de Arquitectura: **Sistema de Medición del Gobierno SOA del FNA: indicadores clave de gestión**                          |
 |----------------|------------------------------------------------------------|
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Efectividad, Factibilidad, Medición  |
 | Autor          |                                                            |
 | Fuente         |                                                            |
-| Versión        | **1.6ff69bb** del 10 Jul 2023                       |
+| Versión        | **1.677d49e** del 11 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -342,15 +342,22 @@ A continuación explicaremos estas dos medidas.
 ## Medidas de Efectividad de Costos de Inversión en Arquitectura
 Es común que los proyectos SOA, y como ya se dijo, también otros proyectos de índole tecnológica como migración de datos, o componentes, que impulsan los proveedores y fabricantes puedan caer en lo que llamaremos el _área de inefectividad de costos de inversión de tecnología_. Ejemplo: implementar SOA para procesos de negocio (nivel de madurez 3, o superior en la mayoría de los marcos de madurez) solo para necesidades intradepartamentales es un derroche de costos. Es inefectivo: cuesta más de lo que se puede aprovechar. 
 
-<diagr>
+![Gobierno SOA del FNA Sistema de medición gobierno arquitecturas FNA. Medidas de efectividad de costos de inversión](images/efectividad.png){#fig: width=}
 
-explicación del diagrama.
+_Fuente: elaboración propia._
+
+<br>
 
 ## Medidas de Factibilidad de Proyectos de Arquitectura
 Este indicador complementa al anterior desde una perspectiva de ejecución, ya no de costos. Si el índice de efectividad de inversión presentado antes nos dice si esta o aquella iniciativa podrá ser aprovechada o no por el FNA tanto como su costo invertido, este otro indicador es más crítico. 
 
 Este indicador detiene por completo, en el mejor de los casos, un proyecto de trabajo de arquitectura previo a su ejecución si este puntúa muy bajo su nivel de factibilidad. Ejemplo: si las capacidades de arquitectura son básicas (poco desarrolladas) en una empresa, y la dirección decide comprometer a un proveedor en un proyecto de SOA empresarial, del cual se espera entre otras cosas una integración expedita y resiliente con entidades externos al FNA como alguno de los que integran su cadena de proveedores, este proyecto no sería posible: no es factible conseguir un nivel de despliegue SOA empresarial cuando el nivel de las capacidades de la arquitetura de la empresa, que es equivalente a hablar de madurez SOA, es bajo o básico. Simplemente es imposible.
 
+![Gobierno SOA del FNA Sistema de medición gobierno arquitecturas FNA. Medidas de factibilidad de proyectos](images/factibilidad.png){#fig: width=}
+
+_Fuente: elaboración propia._
+
+<br>
 
 
 <div style="page-break-before: always;"></div>
