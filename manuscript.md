@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-11" />
   <meta name="citation_publication_date" content="2023-07-11" />
   <meta property="article:published_time" content="2023-07-11" />
-  <meta name="dc.modified" content="2023-07-11T15:35:51+00:00" />
-  <meta property="article:modified_time" content="2023-07-11T15:35:51+00:00" />
+  <meta name="dc.modified" content="2023-07-11T20:55:44+00:00" />
+  <meta property="article:modified_time" content="2023-07-11T20:55:44+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/677d49ee76dfc93c07c36a0ff09a4b880bd38f0c/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/677d49ee76dfc93c07c36a0ff09a4b880bd38f0c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/677d49ee76dfc93c07c36a0ff09a4b880bd38f0c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/725ccffc5f7d79fa303364b9e199d60af51be20c/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/725ccffc5f7d79fa303364b9e199d60af51be20c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/725ccffc5f7d79fa303364b9e199d60af51be20c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/677d49ee76dfc93c07c36a0ff09a4b880bd38f0c/))
+<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/725ccffc5f7d79fa303364b9e199d60af51be20c/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@677d49e](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@725ccff](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 11, 2023.
 </em></small>
 
-|    **Versión** del producto 1.677d49e de 11 Jul 2023
+|    **Versión** del producto 1.725ccff de 11 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 3, PR06. Modelos actualizados de los ítems
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.677d49e del 11 Jul 2023 |
+| Versión        | 1.725ccff del 11 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    11 Jul 2023
 >
->    **Versión** 1.677d49e
+>    **Versión** 1.725ccff
 
 <br>
 
@@ -265,11 +265,11 @@ tablenos-caption-name: Tabla
 >
 >    11 Jul 2023
 >
->    **Versión** 1.677d49e
+>    **Versión** 1.725ccff
 
 <br>
 
-# Producto 7: PR07. Métricas de efectividad de arquitectura
+# Producto 7: PR07. Indicadores de Efectividad de Gobierno y Arquitectura
 Más allá de los índices propuestos por el diagnóstico de madurez SOA desarrollado en la Fase 1 de esta consultoría (@eservices1-22), es clave que el FNA mantenga el vínculo de sus activos de tecnología (infraestructura, hardware, software, servicios SOA, ...) con el contexto de negocio de las vicepresidencias de Operaciones, de Crédito, y demás áreas. Esto es, y para los fines de este producto, _el principal indicador del gobierno SOA por desarrollar, mantener y vigilar, es la existencia y vigencia de estos vínculos entre los contextos de negocio y las arquitecturas FNA_, vínculo que extiende su utilidad a la toma de decisiones y selección de proyectos de brecha tecnológica e infraestructura del FNA.
 
 <br>
@@ -282,8 +282,8 @@ Más allá de los índices propuestos por el diagnóstico de madurez SOA desarro
 De los indicadores de eficacia postulados en este producto, el del _vínculo de los contextos negocio-tecnología SOA_ es el que más valor reporta al gobierno SOA y a las arquitecturas del FNA. Su utilización puede alcanzar a otras disciplinas de gestión TI: identifica y justifica los costos de un cambio en relación al _Valor de negocio_ que este pueda traer. Sirve también como criterio cuantitativo para los procesos de la mayoría de las decisiones de cambio, mejora, inversión, recorte, y otras operaciones propias de la gestión de la tecnología SOA. Por último, es la base para medir la confiabilidad de los modelos, y por ende, de los los análisis que sobre estos los arquitectos de la Oficina de Arquitectura del FNA realicen (ver @eservices7-23). Estas razones elevan a este como el principal indicador de gobierno SOA a desarrollar.
 
 ## Contenidos
-1. Sistema de medición (indicadores clave de gestión) del gobierno SOA del FNA 
-1. Sistema de medición (indicadores) de la Oficina de Arquitectura del FNA
+1. Sistema de métricas (indicadores clave de gestión) del gobierno SOA del FNA 
+1. Sistema de métricas (indicadores) de la Oficina de Arquitectura del FNA
 1. Consideraciones para el uso y despliegue de tableros de gestión de arquitectura
 
 <br>
@@ -305,12 +305,12 @@ _Fuente: Elaboración propia._
 <div style="page-break-before: always;"></div>
 \newpage
 
-| Tema           | Métricas de Efectividad de Arquitectura: **Sistema de Medición del Gobierno SOA del FNA: indicadores clave de gestión**                          |
+| Tema           | Indicadores de Efectividad de Gobierno y Arquitectura: **Sistema de Medidas del Gobierno SOA del FNA**                          |
 |----------------|------------------------------------------------------------|
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Efectividad, Factibilidad, Medición  |
 | Autor          |                                                            |
 | Fuente         |                                                            |
-| Versión        | **1.677d49e** del 11 Jul 2023                       |
+| Versión        | **1.725ccff** del 11 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -318,8 +318,30 @@ _Fuente: Elaboración propia._
 [007na1c. Capacidades y Gobierno SOA](https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/_layouts/OneNote.aspx?id=%2Fpersonal%2Fha_wong10_uniandes_edu_co%2FDocuments%2FBlocs%20de%20notas%2FHarry%20Alfredo%20%40%20Work&wd=target%28SOA%2FSOA.one%7C54D369EF-B7AB-4AC1-8D87-059C763394A1%2F007na1c.%20Capacidades%20y%20Gobierno%20SOA%7CEE66B38D-4CD5-4280-BFBA-B5FFE3E0A1C7%2F%29)
 
 
-# Sistema de Medición del Gobierno SOA del FNA
-## Indicadores Clave del Desempeño del Gobierno
+# Sistema de Medida del Gobierno SOA del FNA
+Lo más importante para la mejora de un proceso, en este caso, el de gobierno SOA del FNA, es seleccionar las medidas que mejor resulten para el objeto a optimizar: gobierno SOA. Su desempeño para ser más concreto. A esto se suma que las potenciales medidas deben ser seleccionadas según criterios inherentes al objeto observado. En nuestro caso y contexto, un ejemplo de criterio de seleccieon es el nivel de madurez tecnológico de la empresa. Sin perjuicio de todo lo anterior, la tarea de elaborar un sistema de medidas puede llegar a ser inconmensurable, por un lado; y por otro, muchos indicadores solo abundan en confusión. 
+
+    Nota: en este contexto diferenciamos los conceptos de medición y métricas en la siguiente manera. 
+<br>    
+
+Por estas razones, y en arreglo a las reglas prácticas citadas, la de la complejidad de medición y la de confusión cognitiva, tomaremos en este ejercicio la estrategia de _empezar con pocas métricas_.
+
+
+## Conceptos del Sistema de Medidas del Gobierno SOA del FNA
+Aclararemos los dos conceptos más importantes del sistema de medidas propuesto. La medida y la métrica (y cuándo esta es un indicador).
+
+### Medida
+Una medida (o su equivalente en este contexto, los indicadores clave de gestión), en apego a la definición inglesa, es todo un aspecto a medir, y por tanto, reúne a varias métricas. Ejemplo: la eficacia del proceso de inversión (...) 
+
+### Métrica
+Mientras que la segunda, la métrica, es un dato que pertenece a una medida. Ejemplo: una métrica de eficacia es las solicitudes de trabajo de arquitectura atendidas en un período de tiempo. 
+
+### Indicador (índice)
+Esta última se convierte en indicador cuando sintetiza varias métricas en un solo número. Ejemplo de esto último es el índice de retono de valor de una inversión, en el que se incorporan una serie de métricas de riesgo, utilidad, entre otras, y quedan expresadas en un solo valor.
+
+<br>
+
+## Medidas de Desempeño del Gobierno SOA del FNA
 El objetivo de los índices de desempeño desarrollados en este capítulo es crear un sistema de medición de gobierno SOA que de cuenta en cifras del progreso (o retroceso) de las capacidades de la arquitectura SOA del FNA. Así mismo, estas métricas e indicadores propuestos del sistema de medición propuesto servirán luego para establecer las tareas para sostener dicho sistema, y las herramientas de gestión, como tableros, que se dispongan sobre este.
 
 <br>
@@ -337,7 +359,7 @@ Para efectos del sistema de medición de gobierno SOA del FNA desarrollamos en e
 
 Estas dos medidas, _efectividad y factibilidad_, que son aplicables a todos los proyectos de arquitectura SOA, y extensibles a otros en cuanto a software, y tecnología se refiere, le dan información a un gobierno tal que puede interceder en dos problemáticas importantes, problemáticas que sin estos datos no podría. Nos referimos a los problemas de inversión de tecnología, que va de la mano del desempeño de los proveedores del FNA; y los problemas de realización o ejecución exitosa de proyectos de arquitectura SOA.
 
-A continuación explicaremos estas dos medidas. 
+A continuación explicamos estas dos medidas. 
 
 ## Medidas de Efectividad de Costos de Inversión en Arquitectura
 Es común que los proyectos SOA, y como ya se dijo, también otros proyectos de índole tecnológica como migración de datos, o componentes, que impulsan los proveedores y fabricantes puedan caer en lo que llamaremos el _área de inefectividad de costos de inversión de tecnología_. Ejemplo: implementar SOA para procesos de negocio (nivel de madurez 3, o superior en la mayoría de los marcos de madurez) solo para necesidades intradepartamentales es un derroche de costos. Es inefectivo: cuesta más de lo que se puede aprovechar. 
