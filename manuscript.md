@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-12" />
   <meta name="citation_publication_date" content="2023-07-12" />
   <meta property="article:published_time" content="2023-07-12" />
-  <meta name="dc.modified" content="2023-07-12T16:56:58+00:00" />
-  <meta property="article:modified_time" content="2023-07-12T16:56:58+00:00" />
+  <meta name="dc.modified" content="2023-07-12T17:03:04+00:00" />
+  <meta property="article:modified_time" content="2023-07-12T17:03:04+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/8b463ac6e0c5159bd3010c70dc5ee03bd560c1c2/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/8b463ac6e0c5159bd3010c70dc5ee03bd560c1c2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/8b463ac6e0c5159bd3010c70dc5ee03bd560c1c2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/a7b603f42dc03a9812bba3718fd5f2f1dccdb177/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/a7b603f42dc03a9812bba3718fd5f2f1dccdb177/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/a7b603f42dc03a9812bba3718fd5f2f1dccdb177/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/8b463ac6e0c5159bd3010c70dc5ee03bd560c1c2/))
+<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/a7b603f42dc03a9812bba3718fd5f2f1dccdb177/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@8b463ac](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@a7b603f](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 12, 2023.
 </em></small>
 
-|    **Versión** del producto 1.8b463ac de 12 Jul 2023
+|    **Versión** del producto 1.a7b603f de 12 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 3, PR06. Modelos actualizados de los ítems
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.8b463ac del 12 Jul 2023 |
+| Versión        | 1.a7b603f del 12 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    12 Jul 2023
 >
->    **Versión** 1.8b463ac
+>    **Versión** 1.a7b603f
 
 <br>
 
@@ -247,7 +247,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.8b463ac** del 12 Jul 2023                       |
+| Versión        | **1.a7b603f** del 12 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -279,7 +279,7 @@ tablenos-caption-name: Tabla
 >
 >    12 Jul 2023
 >
->    **Versión** 1.8b463ac
+>    **Versión** 1.a7b603f
 
 <br>
 
@@ -324,7 +324,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Efectividad, Factibilidad, Medición  |
 | Autor          |                                                            |
 | Fuente         |                                                            |
-| Versión        | **1.8b463ac** del 12 Jul 2023                       |
+| Versión        | **1.a7b603f** del 12 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -416,9 +416,7 @@ Los siguientes indicadores han sido escogidos para atacar los problemas en la ge
 
 Cada uno de estos indicadores debe ser soportados con fuentes de información existentes o por desarrollar, que aparecen en la imagen como _Objeto de información_.
 
-![](images/operativos.png)
-
-[Imagen 1.]() Indicador principal del gobierno SOA: KPI de Vínculo Contexto Negocio-SOA. Identifica y justifica los cambios SOA en relación al Valor de negocio.
+![Indicador principal del gobierno SOA: KPI de Vínculo Contexto Negocio-SOA. Identifica y justifica los cambios SOA en relación al Valor de negocio.](images/operativos.png){#fig: width=}
 
 _Fuente: elaboración propia._
 
@@ -439,9 +437,7 @@ Según los resultados internos del diagnóstico, los problemas del alto esfuerzo
 1. El bajo grado de independencia de proveedor: (ver imagen abajo) _38 puntos / 100 puntos_
 1. Muy baja flexbilidad y tiempos de entrega (time-to-market): _20 / 100 puntos_. 
 
-![](images/analisisSOA-1.png)
-
-[Imagen. ]() Resultados Según los resultados internos del diagnóstico. Dimensión de Negocio.
+![Resultados Según los resultados internos del diagnóstico. Dimensión de Negocio.](images/analisisSOA-1.png){#fig: width=}
 
 _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 
