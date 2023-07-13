@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-13" />
   <meta name="citation_publication_date" content="2023-07-13" />
   <meta property="article:published_time" content="2023-07-13" />
-  <meta name="dc.modified" content="2023-07-13T14:09:18+00:00" />
-  <meta property="article:modified_time" content="2023-07-13T14:09:18+00:00" />
+  <meta name="dc.modified" content="2023-07-13T14:16:49+00:00" />
+  <meta property="article:modified_time" content="2023-07-13T14:16:49+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/a66b9f39e05a618638a38a8ebe290b0035421172/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/a66b9f39e05a618638a38a8ebe290b0035421172/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/a66b9f39e05a618638a38a8ebe290b0035421172/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/4b3db9e15e1a1b90cbb0ea3c9bb9973ac53133bc/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/4b3db9e15e1a1b90cbb0ea3c9bb9973ac53133bc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/4b3db9e15e1a1b90cbb0ea3c9bb9973ac53133bc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/a66b9f39e05a618638a38a8ebe290b0035421172/))
+<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/4b3db9e15e1a1b90cbb0ea3c9bb9973ac53133bc/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@a66b9f3](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@4b3db9e](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 13, 2023.
 </em></small>
 
-|    **Versión** del producto 1.a66b9f3 de 13 Jul 2023
+|    **Versión** del producto 1.4b3db9e de 13 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 3, PR06. Modelos actualizados de los ítems
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.a66b9f3 del 13 Jul 2023 |
+| Versión        | 1.4b3db9e del 13 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    13 Jul 2023
 >
->    **Versión** 1.a66b9f3
+>    **Versión** 1.4b3db9e
 
 <br>
 
@@ -242,13 +242,13 @@ _Fuente: Elaboración propia._
 <br>
 
 
-| Tema           | Indicadores de Efectividad de Gobierno y Arquitectura: **Detalle de ítems de la línea base del FNA actualizados** |
-|----------------|----------------------------------------------------------------------|
-| Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                    |
-| Autor          |                                                              |
-| Fuente         |                                                              |
-| Versión        | **1.a66b9f3** del 13 Jul 2023                       |
-| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
+| Tema           | Indicadores de Efectividad de Gobierno y Arquitectura: **Detalle de ítems de la línea base del FNA actualizados**                                      |
+|----------------|---------------------------------------------------------------------------------------------------------------|
+| Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                     |
+| Autor          |                                                                                                               |
+| Fuente         |                                                                                                               |
+| Versión        | **1.4b3db9e** del 13 Jul 2023                                                                          |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
 
@@ -307,13 +307,39 @@ La línea base de arquitectura presenta bajo nivel de información respecto de l
 
 La vista siguiente muestra esta falta de información en la relación entre los procesos de negocio y los servicios. Este análisis considera un espectro de relación con profundidad de nivel 3. 
 
-![Vista de relación entre los procesos misionales del FNA y las aplicaciones que los soportan. los modelos no contienen la relación directa entre procesos y servicios SOA.](images/VistaRelacionProcesosServicios.png){#fig: width=}
+![Vista de relación entre los procesos misionales del FNA con servicios y las aplicaciones. Los modelos de la línea base de arquitectura contienen poca información de esta relación.](images/VistaRelacionProcesosServicios.png){#fig: width=}
 
 _Fuente: elaboración propia._
 
 <br>
 
 Lo que muestra la vista puede responder a una realidad probable en la que el Fondo tiene categorías de servicios no tanto de procesos como utilitarios, o que los modelos simplemente no contienen estas relaciones. Aumentar el nivel de información de la línea base de arquitectura del FNA y que respondan a los análisis procesos tecnlogía es algo que la Oficina de Arquitectura debe tener en su lista de trabajo.
+
+El nivel de relacionamiento dado por el número de relaciones entre cada proceso y las aplicaciones del FNA, y que presentamos en la tabla siguiente, nos da la pauta de que los que agrupan la mayor cantidad de servicios (aplicaciones) son el proceso de Facturación y Cartera (23 relaciones a aplicaciones), el proceso de Gestión de Crédito (19 relaciones a aplicaciones) y el de Gestión Comercial (19 relaciones a aplicaciones). Abajo visualizamos las relaciones de uno de los procesos para conocer la aplicaiones del FNA con las que este tiene relación.
+
+| **Proceso**                     | **Relaciones** |
+|---------------------------------|----------------|
+| Facturación y Cartera           | **23**         |
+| Gestión de Crédito              | **19**         |
+| _(en blanco)_                   | **19**         |
+| Gestión Comercial               | 9              |
+| Cesantías                       | 5              |
+| Comunicación                    | 3              |
+| Gestión Jurídica                | 3              |
+| Contrataciones                  | 3              |
+| Gestión Administrativa          | 3              |
+| Gestion Comercial               | 3              |
+| Mercadeo                        | 2              |
+| Aporte de Cesantías             | 2              |
+| Gestión Comercial, Comunicación | 1              |
+| Gestion Humana                  | 1              |
+| Captación de Ahorro Voluntario  | 1              |
+| **Total general**               | **97**         |
+
+Table: (Fuente) InventarioAplicacionesFNA.xlsx. Procesos del FNA con mayor cantidad de relaciones a aplicaciones. {#tbl:relaciones-id}
+
+<br>
+
 
 
 ## Criterios de Selección de Servicios de la Línea Base de Arquitectura del FNA
@@ -378,7 +404,7 @@ tablenos-caption-name: Tabla
 >
 >    13 Jul 2023
 >
->    **Versión** 1.a66b9f3
+>    **Versión** 1.4b3db9e
 
 <br>
 
@@ -423,7 +449,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Efectividad, Factibilidad, Medición  |
 | Autor          |                                                            |
 | Fuente         |                                                            |
-| Versión        | **1.a66b9f3** del 13 Jul 2023                       |
+| Versión        | **1.4b3db9e** del 13 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
