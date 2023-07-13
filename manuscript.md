@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-13" />
   <meta name="citation_publication_date" content="2023-07-13" />
   <meta property="article:published_time" content="2023-07-13" />
-  <meta name="dc.modified" content="2023-07-13T14:25:28+00:00" />
-  <meta property="article:modified_time" content="2023-07-13T14:25:28+00:00" />
+  <meta name="dc.modified" content="2023-07-13T14:35:46+00:00" />
+  <meta property="article:modified_time" content="2023-07-13T14:35:46+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/72ec5ebf1df5a377f380adad56fbc12c6c94721e/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/72ec5ebf1df5a377f380adad56fbc12c6c94721e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/72ec5ebf1df5a377f380adad56fbc12c6c94721e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/7e61a7181c09a31d8e9141737908b0e3dd442c32/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/7e61a7181c09a31d8e9141737908b0e3dd442c32/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/7e61a7181c09a31d8e9141737908b0e3dd442c32/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/72ec5ebf1df5a377f380adad56fbc12c6c94721e/))
+<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/7e61a7181c09a31d8e9141737908b0e3dd442c32/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@72ec5eb](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@7e61a71](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 13, 2023.
 </em></small>
 
-|    **Versión** del producto 1.72ec5eb de 13 Jul 2023
+|    **Versión** del producto 1.7e61a71 de 13 Jul 2023
 
 
 
@@ -133,7 +133,7 @@ del July 13, 2023.
 
 
 ## Objetivo del Documento
-Entrega de los productos de la Etapa 3, PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto, del proyecto Gobierno SOA: Políticas, flujos de trabajo y personas que ejercitan y conforman (cumplen) con el gobierno SOA del FNA a desplegar a cargo de la oficina de arquitectura.
+Entrega de los productos de la Etapa 3, Modelos actualizados de los ítems de arquitectura impactados por el proyecto, del proyecto Gobierno SOA: Políticas, flujos de trabajo y personas que ejercitan y conforman (cumplen) con el gobierno SOA del FNA a desplegar a cargo de la oficina de arquitectura.
 
 ##  Control de Cambios {.page_break_before}
 | Tema           | PRY01 Gobierno SOA FNA     |
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 3, PR06. Modelos actualizados de los ítems
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.72ec5eb del 13 Jul 2023 |
+| Versión        | 1.7e61a71 del 13 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    13 Jul 2023
 >
->    **Versión** 1.72ec5eb
+>    **Versión** 1.7e61a71
 
 <br>
 
@@ -242,12 +242,12 @@ _Fuente: Elaboración propia._
 <br>
 
 
-| Tema           | Indicadores de Efectividad de Gobierno y Arquitectura: **Detalle de ítems de la línea base del FNA actualizados** |
+| Tema           | Modelos actualizados de los ítems de arquitectura impactados por el proyecto: **Detalle de ítems de la línea base del FNA actualizados** |
 |----------------|--------------------------------------------------------|
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos  |
 | Autor          |                                            |
 | Fuente         |                                            |
-| Versión        | **1.72ec5eb** del 13 Jul 2023       |
+| Versión        | **1.7e61a71** del 13 Jul 2023       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -282,6 +282,8 @@ Estos modelos se encuentran por ahora, mientras dura el PRY01, Gobierno SOA del 
 * ivr.archimate
 * pa0003-pki.archimate
 * workmanager.archimate
+
+<br>
 
 ## Criterios de Selección de la Línea Base de Modelos del FNA
 Un aspecto clave para mantener el orden de los modelos de arquitectura del FNA es la arquitectura de referencia 2.0 del FNA, la cual se está detallando en el Proyecto 2, Arquitectura de Referencia SOA 2.0 del FNA. Esta arquitectura, o cualquier que haga las veces, es también el criterio que permite unir modelos de la línea base de arquitectura del FNA.
@@ -374,7 +376,7 @@ Por lo anterior, los servicios SOA del FNA más relevantes según los modelos so
 ||ASXX3-RegistrarRecaudoObligacion|**application-service**|
 ||COBIS|application-component|
 
-_Fuente: arquitectura fna.archimate_
+Table: _Fuente: arquitectura fna.archimate_. Servicios SOA del FNA relevantes para futuros diagnóstico sobre la línea base de arquitectura. {#tbl:relaciones-id}
 
 <br>
 
@@ -403,7 +405,7 @@ tablenos-caption-name: Tabla
 >
 >    13 Jul 2023
 >
->    **Versión** 1.72ec5eb
+>    **Versión** 1.7e61a71
 
 <br>
 
@@ -448,7 +450,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Efectividad, Factibilidad, Medición  |
 | Autor          |                                                            |
 | Fuente         |                                                            |
-| Versión        | **1.72ec5eb** del 13 Jul 2023                       |
+| Versión        | **1.7e61a71** del 13 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
