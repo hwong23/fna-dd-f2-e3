@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-13" />
   <meta name="citation_publication_date" content="2023-07-13" />
   <meta property="article:published_time" content="2023-07-13" />
-  <meta name="dc.modified" content="2023-07-13T13:21:28+00:00" />
-  <meta property="article:modified_time" content="2023-07-13T13:21:28+00:00" />
+  <meta name="dc.modified" content="2023-07-13T13:45:37+00:00" />
+  <meta property="article:modified_time" content="2023-07-13T13:45:37+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/941944c7cf405920eb0c3439c491898830dd8bae/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/941944c7cf405920eb0c3439c491898830dd8bae/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/941944c7cf405920eb0c3439c491898830dd8bae/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/813a06558865dc028adeb1d11ae74c939aa35bf3/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/813a06558865dc028adeb1d11ae74c939aa35bf3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/813a06558865dc028adeb1d11ae74c939aa35bf3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/941944c7cf405920eb0c3439c491898830dd8bae/))
+<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/813a06558865dc028adeb1d11ae74c939aa35bf3/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@941944c](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@813a065](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 13, 2023.
 </em></small>
 
-|    **Versión** del producto 1.941944c de 13 Jul 2023
+|    **Versión** del producto 1.813a065 de 13 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 3, PR06. Modelos actualizados de los ítems
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.941944c del 13 Jul 2023 |
+| Versión        | 1.813a065 del 13 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    13 Jul 2023
 >
->    **Versión** 1.941944c
+>    **Versión** 1.813a065
 
 <br>
 
@@ -247,7 +247,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.941944c** del 13 Jul 2023                       |
+| Versión        | **1.813a065** del 13 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -284,8 +284,13 @@ Estos modelos se encuentran por ahora, mientras dura el PRY01, Gobierno SOA del 
 * workmanager.archimate
 
 ## Criterios de Selección de la Línea Base de Modelos del FNA
-La clave para mantener el orden de los modelos de arquitectura del FNA es la arquitectura de referencia 2.0 que se está desarrollando en el Proyecto 2, Arquitectura de Referencia SOA 2.0 del FNA.
-El criterio que permite unir modelos Utilizamos la vista funcional 
+Un aspecto clave para mantener el orden de los modelos de arquitectura del FNA es la arquitectura de referencia 2.0 del FNA, la cual se está detallando en el Proyecto 2, Arquitectura de Referencia SOA 2.0 del FNA. Esta arquitectura, o cualquier que haga las veces, es también el criterio que permite unir modelos de la línea base de arquitectura del FNA.
+
+![Vista funcional FNA, 2022, basada en mapa de servicios de la empresa. Criterio de selección de los modelos de la línea base de arquitectura del FNA, 2023.](images/vistafuncional.png){#fig: width=}
+
+_Fuente: Diagnóstico SOA. E-Service (2022)._
+
+<br>
 
 ## Análisis de los Modelos Actualizados. Relación Negocio Tecnología
 Sobre los modelos actualizados (a los que llamamos línea base de arquitectura del FNA) haremos algunas menciones que deben ser atendidas por la Oficina de Arquitectura del FNA, y sus involucrados. 
@@ -299,46 +304,42 @@ La única relación encontrada es la de algunas áreas de negocio del FNA con el
 <br>
 
 
-# Detalle de Ítems de Línea Base del FNA Actualizados
-En este proyecto denominamos ítems de línea base a los extractos de modelos y sus partes entregados por anteriores consultorías a esta fase de E-Service. El detalle de esta entrega la podemos resumir en el siguiente cuadro.
+## Criterios de Selección de Servicios de la Línea Base de Arquitectura del FNA
+El principal criterio para escoger los servicios SOA del FNA que son más relevantes, tanto para la empresa como para este ejercicio, es la intersección de la vista de segmento del FNA de este proyecto con las capacidades de negocio propuestas por este ejercicio (en color naranja abajo). Esto resulta en la lista de servicios de negocio más importantes para la empresa basado en el nivel de relación con estas capacidades.
 
+![Vista de capacidades del FNA, 2022. Criterio de selección de los servicios relacionados con las capacidades.](images/vistaCapacidadesFNA.png){#fig: width=}
 
-## Extracto de Modelos Analizados en Fase II, E-Service: línea base de modelos FNA
-Los modelos seleccionados (extractos) que presentamos en el siguiente cuadro confirman la línea bade de modelos del FNA. Estos modelos fueron actualizados por el ejercicio actual y por tanto, los entrgamos al FNA a razón de este producto, PR06.
+_Fuente: Diagnóstico SOA. E-Service (2022)._
 
-Estos modelos se encuentran por ahora, mientras dura el PRY01, Gobierno SOA del FNA, en la siguiente ubicación del repositorio intermedio de entregas, [Repositorio SOA](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Modelos?csf=1&web=1&e=LSEm4L).
+<br>
 
-* 2015-06-01 modelo arquitectura togaf - fna banca digital v6.archimate
-* aa002 - cobis ahorro voluntario.archimate
-* aa003-cobis cesantias.archimate
-* aa005-cobis cartera.archimate
-* aa006-cobis tramites.archimate
-* aa015-cobis clientes.archimate
-* aa020-banca virtual.archimate
-* aa021-fondo en linea.archimate
-* aa074-fondo en linea personal.archimate
-* **aa091-cobis cx.archimate**
-* **ae_fna.archimate**
-* **ae_fna_as_is.archimate**
-* ae_fna_tobe.archimate
-* arquitectura banca digital v4.archimate
-* **arquitectura fna.archimate**
-* arquitectura movil_v1.archimate
-* arquitectura movil_v2.archimate
-* fna_proyectos v2.0.archimate
-* information_architecture_bi_ba_md_archixml.archimate
-* ivr.archimate
-* pa0003-pki.archimate
-* workmanager.archimate
+Por lo anterior, los servicios SOA del FNA más relevantes según los modelos son los indicados a continuación. De igual importancia es que estas partes de la empresa tienen participación en futuros diagnósticos del gobierno SOA y de la Oficina de Arquitectura.
 
-## Análisis de los Modelos Actualizados. Relación Negocio Tecnología
-Sobre los modelos actualizados (a los que llamamos línea base de arquitectura del FNA) haremos algunas menciones que deben ser atendidas por la Oficina de Arquitectura del FNA, y sus involucrados. 
+|**Parte FNA**|**Parte Relacionada**|**Tipo**|
+|-------------|---------------------|--------|
+|Desarrollo de nuevos negocios|AS026-Gestión de Autenticación|**application-service**|
+||AS034-ConsultarestadocuentaCartera|**application-service**|
+||ASXX3-RegistrarRecaudoObligacion|**application-service**|
+||COBIS|application-component|
+||Servicios COBIS|application-collaboration|
+|Entrega de Productos|AS026-Gestión de Autenticación|**application-service**|
+||AS034-ConsultarestadocuentaCartera|**application-service**|
+||ASXX3-RegistrarRecaudoObligacion|**application-service**|
+||COBIS|application-component|
+||Servicios COBIS|application-collaboration|
+|Gestión de Cliente|AS026-Gestión de Autenticación|**application-service**|
+||AS034-ConsultarestadocuentaCartera|**application-service**|
+||ASXX3-RegistrarRecaudoObligacion|**application-service**|
+||COBIS|application-component|
+||Servicios COBIS|application-collaboration|
+|Servicios de Cuentas|AS026-Gestión de Autenticación|**application-service**|
+||AS034-ConsultarestadocuentaCartera|**application-service**|
+||ASXX3-RegistrarRecaudoObligacion|**application-service**|
+||COBIS|application-component|
 
-En esta línea base de modelos del FNA presentan una débil relación de las áreas de negocio del FNA con otros elementos de la vista de segmento de empresa de este proyecto. Estos modelos no registran a un nivel mínimo necesario la relación de las áreas con los procesos de negocio (misionales, estratégicos o de soporte, ni con los seleccionados para el diagnóstico), aplicaciones ni con servicios SOA. 
+_Fuente: arquitectura fna.archimate_
 
-    Importante: la relación tecnología y negocio que debe estar presente en los modelos es importante para los análisis planteados en este ejericcio de Gobierno SOA del FNA. Si en los modelos falta esta, no hay forma de conocer ni gestionar la demanda de los servicios SOA del Fondo, o si estos responden a las necesidades de negocio, operación.
-
-La única relación encontrada es la de algunas áreas de negocio del FNA con el proceso de negocio Legalización.
+<br>
 
 
 
@@ -365,7 +366,7 @@ tablenos-caption-name: Tabla
 >
 >    13 Jul 2023
 >
->    **Versión** 1.941944c
+>    **Versión** 1.813a065
 
 <br>
 
@@ -410,7 +411,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Efectividad, Factibilidad, Medición  |
 | Autor          |                                                            |
 | Fuente         |                                                            |
-| Versión        | **1.941944c** del 13 Jul 2023                       |
+| Versión        | **1.813a065** del 13 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
