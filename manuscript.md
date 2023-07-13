@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-13" />
   <meta name="citation_publication_date" content="2023-07-13" />
   <meta property="article:published_time" content="2023-07-13" />
-  <meta name="dc.modified" content="2023-07-13T13:45:37+00:00" />
-  <meta property="article:modified_time" content="2023-07-13T13:45:37+00:00" />
+  <meta name="dc.modified" content="2023-07-13T14:09:18+00:00" />
+  <meta property="article:modified_time" content="2023-07-13T14:09:18+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/813a06558865dc028adeb1d11ae74c939aa35bf3/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/813a06558865dc028adeb1d11ae74c939aa35bf3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/813a06558865dc028adeb1d11ae74c939aa35bf3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/a66b9f39e05a618638a38a8ebe290b0035421172/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/a66b9f39e05a618638a38a8ebe290b0035421172/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/a66b9f39e05a618638a38a8ebe290b0035421172/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/813a06558865dc028adeb1d11ae74c939aa35bf3/))
+<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/a66b9f39e05a618638a38a8ebe290b0035421172/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@813a065](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@a66b9f3](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 13, 2023.
 </em></small>
 
-|    **Versión** del producto 1.813a065 de 13 Jul 2023
+|    **Versión** del producto 1.a66b9f3 de 13 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 3, PR06. Modelos actualizados de los ítems
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.813a065 del 13 Jul 2023 |
+| Versión        | 1.a66b9f3 del 13 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    13 Jul 2023
 >
->    **Versión** 1.813a065
+>    **Versión** 1.a66b9f3
 
 <br>
 
@@ -247,7 +247,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.813a065** del 13 Jul 2023                       |
+| Versión        | **1.a66b9f3** del 13 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -292,16 +292,28 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 
 <br>
 
-## Análisis de los Modelos Actualizados. Relación Negocio Tecnología
-Sobre los modelos actualizados (a los que llamamos línea base de arquitectura del FNA) haremos algunas menciones que deben ser atendidas por la Oficina de Arquitectura del FNA, y sus involucrados. 
+## Análisis de los Modelos Actualizados
+Sobre los modelos actualizados (a los que llamamos línea base de arquitectura del FNA) haremos algunas menciones en cuanto a relaciones faltantes, y sus implicaciones, que deben ser atendidas por la Oficina de Arquitectura del FNA, y sus involucrados. La primera de estas es la relación más importante: la de negocio con tecnología, que es también un objetivo del Gobierno propuesto en este ejercicio.
 
+### Relación Negocio Tecnología
 En esta línea base de modelos del FNA presentan una débil relación de las áreas de negocio del FNA con otros elementos de la vista de segmento de empresa de este proyecto. Estos modelos no registran a un nivel mínimo necesario la relación de las áreas con los procesos de negocio (misionales, estratégicos o de soporte, ni con los seleccionados para el diagnóstico), aplicaciones ni con servicios SOA. 
 
     Importante: la relación tecnología y negocio que debe estar presente en los modelos es importante para los análisis planteados en este ejericcio de Gobierno SOA del FNA. Si en los modelos falta esta, no hay forma de conocer ni gestionar la demanda de los servicios SOA del Fondo, o si estos responden a las necesidades de negocio, operación.
 
 La única relación encontrada es la de algunas áreas de negocio del FNA con el proceso de negocio Legalización.
 
+### Relación Procesos Servicios
+La línea base de arquitectura presenta bajo nivel de información respecto de la relación de los procesos de negocio con los servicios SOA del FNA, _misma que sirve para inferir los servicios que están soportando a dichos procesos_. 
+
+La vista siguiente muestra esta falta de información en la relación entre los procesos de negocio y los servicios. Este análisis considera un espectro de relación con profundidad de nivel 3. 
+
+![Vista de relación entre los procesos misionales del FNA y las aplicaciones que los soportan. los modelos no contienen la relación directa entre procesos y servicios SOA.](images/VistaRelacionProcesosServicios.png){#fig: width=}
+
+_Fuente: elaboración propia._
+
 <br>
+
+Lo que muestra la vista puede responder a una realidad probable en la que el Fondo tiene categorías de servicios no tanto de procesos como utilitarios, o que los modelos simplemente no contienen estas relaciones. Aumentar el nivel de información de la línea base de arquitectura del FNA y que respondan a los análisis procesos tecnlogía es algo que la Oficina de Arquitectura debe tener en su lista de trabajo.
 
 
 ## Criterios de Selección de Servicios de la Línea Base de Arquitectura del FNA
@@ -366,7 +378,7 @@ tablenos-caption-name: Tabla
 >
 >    13 Jul 2023
 >
->    **Versión** 1.813a065
+>    **Versión** 1.a66b9f3
 
 <br>
 
@@ -411,7 +423,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Efectividad, Factibilidad, Medición  |
 | Autor          |                                                            |
 | Fuente         |                                                            |
-| Versión        | **1.813a065** del 13 Jul 2023                       |
+| Versión        | **1.a66b9f3** del 13 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
