@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-24" />
   <meta name="citation_publication_date" content="2023-07-24" />
   <meta property="article:published_time" content="2023-07-24" />
-  <meta name="dc.modified" content="2023-07-24T20:28:03+00:00" />
-  <meta property="article:modified_time" content="2023-07-24T20:28:03+00:00" />
+  <meta name="dc.modified" content="2023-07-24T20:30:52+00:00" />
+  <meta property="article:modified_time" content="2023-07-24T20:30:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/97e403475f0aff1187f64c7396415aa97ddd27cb/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/97e403475f0aff1187f64c7396415aa97ddd27cb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/97e403475f0aff1187f64c7396415aa97ddd27cb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/c4f4eda467942d913d6b860ca291b59bfa9c5438/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/c4f4eda467942d913d6b860ca291b59bfa9c5438/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/c4f4eda467942d913d6b860ca291b59bfa9c5438/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/97e403475f0aff1187f64c7396415aa97ddd27cb/))
+<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/c4f4eda467942d913d6b860ca291b59bfa9c5438/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@97e4034](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@c4f4eda](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 24, 2023.
 </em></small>
 
-|    **Versión** del producto 1.97e4034 de 24 Jul 2023
+|    **Versión** del producto 1.c4f4eda de 24 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 3, Modelos actualizados de los ítems de ar
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.97e4034 del 24 Jul 2023 |
+| Versión        | 1.c4f4eda del 24 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    24 Jul 2023
 >
->    **Versión** 1.97e4034
+>    **Versión** 1.c4f4eda
 
 <br>
 
@@ -247,7 +247,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos  |
 | Autor          |                                            |
 | Fuente         |                                            |
-| Versión        | **1.97e4034** del 24 Jul 2023       |
+| Versión        | **1.c4f4eda** del 24 Jul 2023       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -405,7 +405,7 @@ tablenos-caption-name: Tabla
 >
 >    24 Jul 2023
 >
->    **Versión** 1.97e4034
+>    **Versión** 1.c4f4eda
 
 <br>
 
@@ -450,13 +450,13 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Efectividad, Factibilidad, Medición  |
 | Autor          |                                                            |
 | Fuente         |                                                            |
-| Versión        | **1.97e4034** del 24 Jul 2023                       |
+| Versión        | **1.c4f4eda** del 24 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
 
 # Sistema de Medida del Gobierno SOA del FNA
-Lo más importante para la mejora de un proceso, en este caso, el de gobierno SOA del FNA, es seleccionar las medidas que mejor resulten para el objeto a optimizar: gobierno SOA. Su desempeño para ser más concreto. A esto se suma que las potenciales medidas deben ser seleccionadas según criterios inherentes al objeto observado. En nuestro caso y contexto, un ejemplo de criterio de seleccieon es el nivel de madurez tecnológico de la empresa. Sin perjuicio de todo lo anterior, la tarea de elaborar un sistema de medidas puede llegar a ser inconmensurable, por un lado; y por otro, muchos indicadores solo abundan en confusión. 
+Lo más importante para la mejora de un proceso, en este caso, el de gobierno SOA del FNA, es seleccionar las medidas que mejor resulten para el objeto a optimizar: gobierno SOA. Su desempeño para ser más concreto. A esto se suma que las potenciales medidas deben ser seleccionadas según criterios inherentes al objeto observado. En nuestro caso y contexto, un ejemplo de criterio de selección es el nivel de madurez tecnológico de la empresa. Sin perjuicio de todo lo anterior, la tarea de elaborar un sistema de medidas puede llegar a ser inconmensurable, por un lado; y por otro, muchos indicadores solo abundan en confusión. 
 
     Nota: en este contexto diferenciamos los conceptos de medición y métricas en la siguiente manera. 
 <br>    
@@ -474,18 +474,18 @@ Una medida (o su equivalente en este contexto, los indicadores clave de gestión
 Mientras que la segunda, la métrica, es un dato que pertenece a una medida. Ejemplo: una métrica de eficacia es las solicitudes de trabajo de arquitectura atendidas en un período de tiempo. 
 
 ### Indicador (índice)
-Esta última se convierte en indicador cuando sintetiza varias métricas en un solo número. Ejemplo de esto último es el índice de retono de valor de una inversión, en el que se incorporan una serie de métricas de riesgo, utilidad, entre otras, y quedan expresadas en un solo valor.
+Esta última se convierte en indicador cuando sintetiza varias métricas en un solo número. Ejemplo de esto último es el índice de retorno de valor de una inversión, en el que se incorporan una serie de métricas de riesgo, utilidad, entre otras, y quedan expresadas en un solo valor.
 
 <br>
 
 
 
 ## Medidas de Desempeño del Gobierno SOA del FNA
-El objetivo de los índices de desempeño desarrollados en este capítulo es crear un sistema de medición de gobierno SOA que de cuenta en cifras del progreso (o retroceso) de las capacidades de la arquitectura SOA del FNA. Así mismo, estas métricas e indicadores propuestos del sistema de medición propuesto servirán luego para establecer las tareas para sostener dicho sistema, y las herramientas de gestión, como tableros, que se dispongan sobre este.
+El objetivo de los índices de desempeño desarrollados en este capítulo es crear un sistema de medición de gobierno SOA que se cuenta en cifras del progreso (o retroceso) de las capacidades de la arquitectura SOA del FNA. Así mismo, estas métricas e indicadores propuestos del sistema de medición propuesto servirán luego para establecer las tareas para sostener dicho sistema, y las herramientas de gestión, como tableros, que se dispongan sobre este.
 
 <br>
 
-    Nota: capacidad de arquitectura y madurez SOA son conceptos distintos. Sin embargo, en la práctica son susceptibles de equivalencia debido a la corelación positiva observable entre ellos. Es decir, cuando las capaciddades de las arquitecturas aumentan, por lo general, aumenta también el nivel de madurez SOA de una arquitectura. De ahí que consideramos como equivalentes el nivel de desarrollo de las capacidades de la arquitrctura y los niveles de madurez SOA.
+    Nota: capacidad de arquitectura y madurez SOA son conceptos distintos. Sin embargo, en la práctica son susceptibles de equivalencia debido a la correlación positiva observable entre ellos. Es decir, cuando las capacidades de las arquitecturas aumentan, por lo general, aumenta también el nivel de madurez SOA de una arquitectura. De ahí que consideramos como equivalentes el nivel de desarrollo de las capacidades de la arquitectura y los niveles de madurez SOA.
 
 <br>
 
@@ -498,7 +498,7 @@ Para efectos del sistema de medición de gobierno SOA del FNA desarrollamos en e
 
 Estas dos medidas, _efectividad y factibilidad_, que son aplicables a todos los proyectos de arquitectura SOA, y extensibles a otros en cuanto a software, y tecnología se refiere, le dan información a un gobierno tal que puede interceder en dos problemáticas importantes, problemáticas que sin estos datos no podría. Nos referimos a los problemas de inversión de tecnología, que va de la mano del desempeño de los proveedores del FNA; y los problemas de realización o ejecución exitosa de proyectos de arquitectura SOA.
 
-A continuación explicamos estas dos medidas. 
+A continuación, explicamos estas dos medidas. 
 
 ## Medidas de Efectividad de Costos de Inversión en Arquitectura
 Es común que los proyectos SOA, y como ya se dijo, también otros proyectos de índole tecnológica como migración de datos, o componentes, que impulsan los proveedores y fabricantes puedan caer en lo que llamaremos el _área de inefectividad de costos de inversión de tecnología_. Ejemplo: implementar SOA para procesos de negocio (nivel de madurez 3, o superior en la mayoría de los marcos de madurez) solo para necesidades intradepartamentales es un derroche de costos. Es inefectivo: cuesta más de lo que se puede aprovechar. 
@@ -512,7 +512,7 @@ _Fuente: elaboración propia._
 ## Medidas de Factibilidad de Proyectos de Arquitectura
 Este indicador complementa al anterior desde una perspectiva de ejecución, ya no de costos. Si el índice de efectividad de inversión presentado antes nos dice si esta o aquella iniciativa podrá ser aprovechada o no por el FNA tanto como su costo invertido, este otro indicador es más crítico. 
 
-Este indicador detiene por completo, en el mejor de los casos, un proyecto de trabajo de arquitectura previo a su ejecución si este puntúa muy bajo su nivel de factibilidad. Ejemplo: si las capacidades de arquitectura son básicas (poco desarrolladas) en una empresa, y la dirección decide comprometer a un proveedor en un proyecto de SOA empresarial, del cual se espera entre otras cosas una integración expedita y resiliente con entidades externos al FNA como alguno de los que integran su cadena de proveedores, este proyecto no sería posible: no es factible conseguir un nivel de despliegue SOA empresarial cuando el nivel de las capacidades de la arquitetura de la empresa, que es equivalente a hablar de madurez SOA, es bajo o básico. Simplemente es imposible.
+Este indicador detiene por completo, en el mejor de los casos, un proyecto de trabajo de arquitectura previo a su ejecución si este puntúa muy bajo su nivel de factibilidad. Ejemplo: si las capacidades de arquitectura son básicas (poco desarrolladas) en una empresa, y la dirección decide comprometer a un proveedor en un proyecto de SOA empresarial, del cual se espera entre otras cosas una integración expedita y resiliente con entidades externos al FNA como alguno de los que integran su cadena de proveedores, este proyecto no sería posible: no es factible conseguir un nivel de despliegue SOA empresarial cuando el nivel de las capacidades de la arquitectura de la empresa, que es equivalente a hablar de madurez SOA, es bajo o básico. Simplemente es imposible.
 
 ![Gobierno SOA del FNA Sistema de medición gobierno arquitecturas FNA. Medidas de factibilidad de proyectos](images/factibilidad.png){#fig: width=}
 
