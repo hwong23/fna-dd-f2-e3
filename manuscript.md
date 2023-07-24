@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-24" />
   <meta name="citation_publication_date" content="2023-07-24" />
   <meta property="article:published_time" content="2023-07-24" />
-  <meta name="dc.modified" content="2023-07-24T20:25:40+00:00" />
-  <meta property="article:modified_time" content="2023-07-24T20:25:40+00:00" />
+  <meta name="dc.modified" content="2023-07-24T20:27:33+00:00" />
+  <meta property="article:modified_time" content="2023-07-24T20:27:33+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/905870c0022608e08e1e6e969f7260d5754a51a0/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/905870c0022608e08e1e6e969f7260d5754a51a0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/905870c0022608e08e1e6e969f7260d5754a51a0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/aa4b6849eb4eb7bdff74173445f753475e5eeafa/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/aa4b6849eb4eb7bdff74173445f753475e5eeafa/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/aa4b6849eb4eb7bdff74173445f753475e5eeafa/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/905870c0022608e08e1e6e969f7260d5754a51a0/))
+<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/aa4b6849eb4eb7bdff74173445f753475e5eeafa/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@905870c](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@aa4b684](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 24, 2023.
 </em></small>
 
-|    **Versión** del producto 1.905870c de 24 Jul 2023
+|    **Versión** del producto 1.aa4b684 de 24 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 3, Modelos actualizados de los ítems de ar
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.905870c del 24 Jul 2023 |
+| Versión        | 1.aa4b684 del 24 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    24 Jul 2023
 >
->    **Versión** 1.905870c
+>    **Versión** 1.aa4b684
 
 <br>
 
@@ -247,7 +247,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos  |
 | Autor          |                                            |
 | Fuente         |                                            |
-| Versión        | **1.905870c** del 24 Jul 2023       |
+| Versión        | **1.aa4b684** del 24 Jul 2023       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -256,7 +256,7 @@ _Fuente: Elaboración propia._
 En este proyecto denominamos ítems de línea base a los extractos de modelos y sus partes entregados por anteriores consultorías a esta fase de E-Service. El detalle de esta entrega la podemos resumir en el siguiente cuadro.
 
 ## Extracto de Modelos Analizados en Fase II, E-Service: línea base de modelos FNA
-Los modelos seleccionados (extractos) que presentamos en el siguiente cuadro confirman la línea bade de modelos del FNA. Estos modelos fueron actualizados por el ejercicio actual y por tanto, los entrgamos al FNA a razón de este producto, PR06.
+Los modelos seleccionados (extractos) que presentamos en el siguiente cuadro confirman la línea bade de modelos del FNA. Estos modelos fueron actualizados por el ejercicio actual y por tanto, los entregamos al FNA a razón de este producto, PR06.
 
 Estos modelos se encuentran por ahora, mientras dura el PRY01, Gobierno SOA del FNA, en la siguiente ubicación del repositorio intermedio de entregas, [Repositorio SOA](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Modelos?csf=1&web=1&e=LSEm4L).
 
@@ -300,7 +300,7 @@ Sobre los modelos actualizados (a los que llamamos línea base de arquitectura d
 ### Relación Negocio Tecnología
 En esta línea base de modelos del FNA presentan una débil relación de las áreas de negocio del FNA con otros elementos de la vista de segmento de empresa de este proyecto. Estos modelos no registran a un nivel mínimo necesario la relación de las áreas con los procesos de negocio (misionales, estratégicos o de soporte, ni con los seleccionados para el diagnóstico), aplicaciones ni con servicios SOA. 
 
-    Importante: la relación tecnología y negocio que debe estar presente en los modelos es importante para los análisis planteados en este ejericcio de Gobierno SOA del FNA. Si en los modelos falta esta, no hay forma de conocer ni gestionar la demanda de los servicios SOA del Fondo, o si estos responden a las necesidades de negocio, operación.
+    Importante: la relación tecnología y negocio que debe estar presente en los modelos es importante para los análisis planteados en este ejercicio de Gobierno SOA del FNA. Si en los modelos falta esta, no hay forma de conocer ni gestionar la demanda de los servicios SOA del Fondo, o si estos responden a las necesidades de negocio, operación.
 
 La única relación encontrada es la de algunas áreas de negocio del FNA con el proceso de negocio Legalización.
 
@@ -315,9 +315,9 @@ _Fuente: elaboración propia._
 
 <br>
 
-Lo que muestra la vista puede responder a una realidad probable en la que el Fondo tiene categorías de servicios no tanto de procesos como utilitarios, o que los modelos simplemente no contienen estas relaciones. Aumentar el nivel de información de la línea base de arquitectura del FNA y que respondan a los análisis procesos tecnlogía es algo que la Oficina de Arquitectura debe tener en su lista de trabajo.
+Lo que muestra la vista puede responder a una realidad probable en la que el Fondo tiene categorías de servicios no tanto de procesos como utilitarios, o que los modelos simplemente no contienen estas relaciones. Aumentar el nivel de información de la línea base de arquitectura del FNA y que respondan a los análisis procesos tecnología es algo que la Oficina de Arquitectura debe tener en su lista de trabajo.
 
-El nivel de relacionamiento dado por el número de encuentro entre cada proceso y las aplicaciones del FNA, y que presentamos en la tabla siguiente, nos indica que los que agrupan la mayor cantidad de servicios (aplicaciones) son el proceso de Facturación y Cartera (23 relaciones a aplicaciones), el proceso de Gestión de Crédito (19 relaciones a aplicaciones) y el de Gestión Comercial (9 relaciones a aplicaciones). Abajo visualizamos las relaciones de uno de los procesos para conocer la aplicaiones del FNA con las que este tiene relación.
+El nivel de relacionamiento dado por el número de encuentro entre cada proceso y las aplicaciones del FNA, y que presentamos en la tabla siguiente, nos indica que los que agrupan la mayor cantidad de servicios (aplicaciones) son el proceso de Facturación y Cartera (23 relaciones a aplicaciones), el proceso de Gestión de Crédito (19 relaciones a aplicaciones) y el de Gestión Comercial (9 relaciones a aplicaciones). Abajo visualizamos las relaciones de uno de los procesos para conocer las aplicaciones del FNA con las que este tiene relación.
 
 | **Proceso**                     | **Relaciones** |
 |---------------------------------|----------------|
@@ -329,11 +329,11 @@ El nivel de relacionamiento dado por el número de encuentro entre cada proceso 
 | Gestión Jurídica                | 3              |
 | Contrataciones                  | 3              |
 | Gestión Administrativa          | 3              |
-| Gestion Comercial               | 3              |
+| Gestión Comercial               | 3              |
 | Mercadeo                        | 2              |
 | Aporte de Cesantías             | 2              |
 | Gestión Comercial, Comunicación | 1              |
-| Gestion Humana                  | 1              |
+| Gestión Humana                  | 1              |
 | Captación de Ahorro Voluntario  | 1              |
 | **Total general**               | **97**         |
 
@@ -405,7 +405,7 @@ tablenos-caption-name: Tabla
 >
 >    24 Jul 2023
 >
->    **Versión** 1.905870c
+>    **Versión** 1.aa4b684
 
 <br>
 
@@ -450,13 +450,13 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Efectividad, Factibilidad, Medición  |
 | Autor          |                                                            |
 | Fuente         |                                                            |
-| Versión        | **1.905870c** del 24 Jul 2023                       |
+| Versión        | **1.aa4b684** del 24 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
 
 # Sistema de Medida del Gobierno SOA del FNA
-Lo más importante para la mejora de un proceso, en este caso, el de gobierno SOA del FNA, es seleccionar las medidas que mejor resulten para el objeto a optimizar: gobierno SOA. Su desempeño para ser más concreto. A esto se suma que las potenciales medidas deben ser seleccionadas según criterios inherentes al objeto observado. En nuestro caso y contexto, un ejemplo de criterio de seleccieon es el nivel de madurez tecnológico de la empresa. Sin perjuicio de todo lo anterior, la tarea de elaborar un sistema de medidas puede llegar a ser inconmensurable, por un lado; y por otro, muchos indicadores solo abundan en confusión. 
+Lo más importante para la mejora de un proceso, en este caso, el de gobierno SOA del FNA, es seleccionar las medidas que mejor resulten para el objeto a optimizar: gobierno SOA. Su desempeño para ser más concreto. A esto se suma que las potenciales medidas deben ser seleccionadas según criterios inherentes al objeto observado. En nuestro caso y contexto, un ejemplo de criterio de selección es el nivel de madurez tecnológico de la empresa. Sin perjuicio de todo lo anterior, la tarea de elaborar un sistema de medidas puede llegar a ser inconmensurable, por un lado; y por otro, muchos indicadores solo abundan en confusión. 
 
     Nota: en este contexto diferenciamos los conceptos de medición y métricas en la siguiente manera. 
 <br>    
@@ -474,7 +474,7 @@ Una medida (o su equivalente en este contexto, los indicadores clave de gestión
 Mientras que la segunda, la métrica, es un dato que pertenece a una medida. Ejemplo: una métrica de eficacia es las solicitudes de trabajo de arquitectura atendidas en un período de tiempo. 
 
 ### Indicador (índice)
-Esta última se convierte en indicador cuando sintetiza varias métricas en un solo número. Ejemplo de esto último es el índice de retono de valor de una inversión, en el que se incorporan una serie de métricas de riesgo, utilidad, entre otras, y quedan expresadas en un solo valor.
+Esta última se convierte en indicador cuando sintetiza varias métricas en un solo número. Ejemplo de esto último es el índice de retorno de valor de una inversión, en el que se incorporan una serie de métricas de riesgo, utilidad, entre otras, y quedan expresadas en un solo valor.
 
 <br>
 
