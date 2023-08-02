@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-02" />
   <meta name="citation_publication_date" content="2023-08-02" />
   <meta property="article:published_time" content="2023-08-02" />
-  <meta name="dc.modified" content="2023-08-02T11:18:03+00:00" />
-  <meta property="article:modified_time" content="2023-08-02T11:18:03+00:00" />
+  <meta name="dc.modified" content="2023-08-02T11:20:14+00:00" />
+  <meta property="article:modified_time" content="2023-08-02T11:20:14+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/d44ae8c19d2fde2912bb82663585a527513675ed/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/d44ae8c19d2fde2912bb82663585a527513675ed/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/d44ae8c19d2fde2912bb82663585a527513675ed/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e3/v/571e7a34652e5a98088d2fef060e1f94228be275/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/571e7a34652e5a98088d2fef060e1f94228be275/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e3/v/571e7a34652e5a98088d2fef060e1f94228be275/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/d44ae8c19d2fde2912bb82663585a527513675ed/))
+<small><em>Los productos contractuales (PR0n) de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-e3/v/571e7a34652e5a98088d2fef060e1f94228be275/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@d44ae8c](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@571e7a3](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 2, 2023.
 </em></small>
 
-|    **Versión** del producto 1.d44ae8c de 02 Aug 2023
+|    **Versión** del producto 1.571e7a3 de 02 Aug 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 3 y 4, productos PR06. Modelos actualizados
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.d44ae8c del 02 Aug 2023 |
+| Versión        | 1.571e7a3 del 02 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    02 Aug 2023
 >
->    **Versión** 1.d44ae8c
+>    **Versión** 1.571e7a3
 
 <br>
 
@@ -247,7 +247,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos  |
 | Autor          |                                            |
 | Fuente         |                                            |
-| Versión        | **1.d44ae8c** del 02 Aug 2023       |
+| Versión        | **1.571e7a3** del 02 Aug 2023       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -405,7 +405,7 @@ tablenos-caption-name: Tabla
 >
 >    02 Aug 2023
 >
->    **Versión** 1.d44ae8c
+>    **Versión** 1.571e7a3
 
 <br>
 
@@ -450,7 +450,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Efectividad, Factibilidad, Medición  |
 | Autor          |                                                            |
 | Fuente         |                                                            |
-| Versión        | **1.d44ae8c** del 02 Aug 2023                       |
+| Versión        | **1.571e7a3** del 02 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -543,7 +543,7 @@ Los siguientes indicadores han sido escogidos para atacar los problemas en la ge
 
 Cada uno de estos indicadores debe ser soportados con fuentes de información existentes o por desarrollar, que aparecen en la imagen como _Objeto de información_.
 
-![Indicador principal del gobierno SOA: KPI de Vínculo Contexto Negocio-SOA. Identifica y justifica los cambios SOA en relación al Valor de negocio.](images/operativos.png){#fig: width=}
+![Indicador principal del gobierno SOA: KPI de Vínculo Contexto Negocio-SOA. Identifica y justifica los cambios SOA en relación al Valor de negocio.](images/operativos.png){#fig:operativos.png width=}
 
 _Fuente: elaboración propia._
 
